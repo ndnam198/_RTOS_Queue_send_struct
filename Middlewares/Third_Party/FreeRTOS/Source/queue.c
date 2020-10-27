@@ -379,7 +379,7 @@ Queue_t * const pxQueue = ( Queue_t * ) xQueue;
 
 		if( pxNewQueue != NULL )
 		{
-			/* Jump past the queue structure to find the location of the queue
+			/* Jump past the queue structure to find the pc_sw_version of the queue
 			storage area. */
 			pucQueueStorage = ( ( uint8_t * ) pxNewQueue ) + sizeof( Queue_t );
 

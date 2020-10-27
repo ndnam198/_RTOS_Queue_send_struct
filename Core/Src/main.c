@@ -25,9 +25,11 @@
 #include "myRTOSaddons.h"
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
+
+/* Typedef Enum */
 typedef enum
 {
-  eChargePoint_1 = 0x00U,
+  eChargePoint_1 = 0x00,
   eChargePoint_2,
   eChargePoint_3,
   eChargePoint_4,
@@ -36,11 +38,34 @@ typedef enum
   eGateway
 } eDataSource_t;
 
+typedef enum
+{
+  eState_Idle = 0x00,
+  eState_Charging,
+  eState_Maintainance,
+  eState_Emergency
+} eWorkingState_t;
+/* Define struct sent by queue */
+
+/**
+ * This struct contains device properties including: pc_sw_version, working state
+ * 
+ */
 typedef struct
 {
-  eDataSource_t eDataSource;
-  uint32_t ulValue;
-} DataFrame_t;
+  char *pc_sw_version;
+  eWorkingState_t u8_working_state;
+} DeviceProperties_t;
+
+/**
+ * @brief This struct includes all information from a specific device
+ * 
+ */
+typedef struct
+{
+  eDataSource_t e_data_source;
+  DeviceProperties_t *t_device_property;
+} DeviceInfo_t;
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
@@ -51,11 +76,14 @@ typedef struct
 /* USER CODE BEGIN PM */
 
 #define QUEUE_SIZE (7UL)
+#define NUMBER_OF_DEVICES (7UL)
+#define SEND_FREQ (1000UL)
+#define SEND_FREQ_MIN (500UL)
+#define SEND_FREQ_MAX (2000UL)
+#define RECEIVE_FREQ (500UL)
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
-UART_HandleTypeDef huart2;
-char main_string[100];
 /* Definitions for defaultTask */
 
 /* Definitions for blinkLed1 */
@@ -73,6 +101,7 @@ osThreadId_t SenderHandle4;
 osThreadId_t SenderHandle5;
 osThreadId_t SenderHandle6;
 osThreadId_t GatewayHandle;
+
 const osThreadAttr_t Sender_attributes = {
     .name = "Sender",
     .priority = (osPriority_t)osPriorityLow5, /* Senser has the higher priority so Queue's always full of data */
@@ -86,22 +115,27 @@ const osThreadAttr_t Receiver_attributes = {
     .stack_size = 128 * 4};
 
 /* USER CODE BEGIN PV */
-osMessageQueueId_t queue_handle = NULL;
-
 uint32_t error_count = 0;
-
-/**
- * @brief Create an array with DataFrame_t type
- * 
- */
-DataFrame_t DataStructToSend[7] = {
-    {eChargePoint_1, 1},
-    {eChargePoint_2, 2},
-    {eChargePoint_3, 3},
-    {eChargePoint_4, 4},
-    {eChargePoint_5, 5},
-    {eChargePoint_6, 6},
-    {eGateway, 15},
+UART_HandleTypeDef huart2;
+char main_string[100];
+osMessageQueueId_t queue_handle = NULL;
+const char pc_working_state[4][13] = {
+    {"IDLE"},
+    {"CHARGING"},
+    {"MAINTAINANCE"},
+    {"EMERGENCY"},
+};
+/* Device Properties */
+DeviceProperties_t t_device_property[NUMBER_OF_DEVICES];
+/* Device Stack */
+DeviceInfo_t t_device_info[NUMBER_OF_DEVICES] = {
+    {eChargePoint_1, (DeviceProperties_t *)(t_device_property + 0)},
+    {eChargePoint_2, (DeviceProperties_t *)(t_device_property + 1)},
+    {eChargePoint_3, (DeviceProperties_t *)(t_device_property + 2)},
+    {eChargePoint_4, (DeviceProperties_t *)(t_device_property + 3)},
+    {eChargePoint_5, (DeviceProperties_t *)(t_device_property + 4)},
+    {eChargePoint_6, (DeviceProperties_t *)(t_device_property + 5)},
+    {eGateway, (DeviceProperties_t *)(t_device_property + 6)},
 };
 
 /* USER CODE END PV */
@@ -113,6 +147,21 @@ static void MX_USART2_UART_Init(void);
 void blinkTask(void *argument);
 void senderTask(void *argument);
 void receiverTask(void *argument);
+
+/* Configure specific device properties */
+void vSetDeviceData(DeviceProperties_t *p_device_properties, char *new_sw_version, eWorkingState_t new_working_state)
+{
+  p_device_properties->u8_working_state = new_working_state;
+  if (!IS_SAME_STRING(new_sw_version, "None"))
+  {
+    p_device_properties->pc_sw_version = new_sw_version;
+    return;
+  }
+  else
+  {
+    return;
+  }
+}
 /* USER CODE BEGIN PFP */
 
 /* USER CODE END PFP */
@@ -173,7 +222,7 @@ int main(void)
 
   /* USER CODE BEGIN RTOS_QUEUES */
   /* add queues, ... */
-  queue_handle = osMessageQueueNew(QUEUE_SIZE, sizeof(DataFrame_t), NULL);
+  queue_handle = osMessageQueueNew(QUEUE_SIZE, sizeof(DeviceInfo_t), NULL);
   if (queue_handle == NULL)
   {
     error_count++;
@@ -186,13 +235,13 @@ int main(void)
   /* USER CODE BEGIN RTOS_THREADS */
   /* creation of Sender task*/
 
-  SenderHandle1 = osThreadNew(senderTask, (void *)DataStructToSend, &Sender_attributes);
-  SenderHandle2 = osThreadNew(senderTask, (void *)(DataStructToSend + 1), &Sender_attributes);
-  SenderHandle3 = osThreadNew(senderTask, (void *)(DataStructToSend + 2), &Sender_attributes);
-  SenderHandle4 = osThreadNew(senderTask, (void *)(DataStructToSend + 3), &Sender_attributes);
-  SenderHandle5 = osThreadNew(senderTask, (void *)(DataStructToSend + 4), &Sender_attributes);
-  SenderHandle6 = osThreadNew(senderTask, (void *)(DataStructToSend + 5), &Sender_attributes);
-  GatewayHandle = osThreadNew(senderTask, (void *)(DataStructToSend + 6), &Sender_attributes);
+  SenderHandle1 = osThreadNew(senderTask, (void *)t_device_info, &Sender_attributes);
+  SenderHandle2 = osThreadNew(senderTask, (void *)(t_device_info + 1), &Sender_attributes);
+  SenderHandle3 = osThreadNew(senderTask, (void *)(t_device_info + 2), &Sender_attributes);
+  SenderHandle4 = osThreadNew(senderTask, (void *)(t_device_info + 3), &Sender_attributes);
+  SenderHandle5 = osThreadNew(senderTask, (void *)(t_device_info + 4), &Sender_attributes);
+  SenderHandle6 = osThreadNew(senderTask, (void *)(t_device_info + 5), &Sender_attributes);
+  GatewayHandle = osThreadNew(senderTask, (void *)(t_device_info + 6), &Sender_attributes);
 
   //Check if all tasks are created successful or not
   if ((SenderHandle1 == NULL) || (SenderHandle2 == NULL) || (SenderHandle3 == NULL) || (SenderHandle4 == NULL) || (SenderHandle5 == NULL) || (SenderHandle6 == NULL) || (GatewayHandle == NULL))
@@ -221,6 +270,14 @@ int main(void)
   }
   else
   {
+    /* Init value for data structure in use */
+    vSetDeviceData((t_device_property+0), (char *)"0.0.11", eState_Idle);
+    vSetDeviceData((t_device_property+1), (char *)"0.0.12", eState_Idle);
+    vSetDeviceData((t_device_property+2), (char *)"0.0.13", eState_Charging);
+    vSetDeviceData((t_device_property+3), (char *)"0.0.14", eState_Charging);
+    vSetDeviceData((t_device_property+4), (char *)"0.0.15", eState_Maintainance);
+    vSetDeviceData((t_device_property+5), (char *)"0.0.16", eState_Emergency);
+    vSetDeviceData((t_device_property+6), (char *)"0.0.8", eState_Idle);
     PRINTF("Start RTOS_Kernel\r\n");
     osKernelStart();
   }
@@ -342,25 +399,32 @@ static void MX_GPIO_Init(void)
 
 /* USER CODE BEGIN 4 */
 
+/**
+ * @brief Sender Task
+ * 
+ * @param argument 
+ */
 void senderTask(void *argument)
 {
   BaseType_t status;
-  TickType_t send_freq = pdMS_TO_TICKS(500);
+  TickType_t send_freq = pdMS_TO_TICKS(SEND_FREQ);
   TickType_t block_time = pdMS_TO_TICKS(3000);
-  DataFrame_t *dtDataToSend = (DataFrame_t *)argument;
+  DeviceInfo_t *t_data_to_send = (DeviceInfo_t *)argument;
 
   /* Infinite loop */
   for (;;)
   {
     newline;
+    /* Random frequency to send data */
     PRINT_VAR_IN_TASK(send_freq);
-    send_freq = RAND_U32(300, 3000);
-    sprintf(main_string, "ChargePoint number %d starts transfering data\r\n", dtDataToSend->eDataSource);
+    send_freq = RAND_U32(SEND_FREQ_MIN, SEND_FREQ_MAX);
+    memset(main_string, 0, sizeof(main_string));
+    sprintf(main_string, "ChargePoint number %d starts transfering data\r\n", t_data_to_send->e_data_source);
     PRINT_IN_TASK(main_string);
-    status = xQueueSendToBack(queue_handle, (void *)dtDataToSend, block_time); /* If the queue is full, senderTask will be blocked for maximum block_time before return fail */
+    status = xQueueSendToBack(queue_handle, (void *)t_data_to_send, block_time); /* If the queue is full, senderTask will be blocked for maximum block_time before return fail */
     if (status != pdPASS)
     {
-      sprintf(main_string, "ChargePoint number %d failed to transfer data\r\n", dtDataToSend->eDataSource);
+      sprintf(main_string, "[QUEUE_FULL] ChargePoint number %d failed to transfer data\r\n", t_data_to_send->e_data_source);
       PRINT_IN_TASK(main_string);
     }
 
@@ -368,60 +432,61 @@ void senderTask(void *argument)
   }
 }
 
-/*receiverTask */
 /**
-
-*/
+ * @brief Receiver Task
+ * 
+ * @param argument 
+ */
 void receiverTask(void *argument)
 {
-  DataFrame_t dtReceivedDataFrame; /* Create a variable to store data received from queue */
+  DeviceInfo_t t_data_received; /* Create a variable to store data received from queue */
   BaseType_t status;
-  TickType_t receive_freq = pdMS_TO_TICKS(500);
-  uint8_t nb_data_on_queue = 0;
+  TickType_t receive_freq = pdMS_TO_TICKS(RECEIVE_FREQ);
+  uint8_t u8_nb_data_on_queue = 0;
   /* Infinite loop */
   for (;;)
   {
     newline;
     //Check number of data already on queue
-    nb_data_on_queue = (uint8_t)uxQueueMessagesWaiting(queue_handle);
-    if (nb_data_on_queue != 7)
+    u8_nb_data_on_queue = (uint8_t)uxQueueMessagesWaiting(queue_handle);
+    if (u8_nb_data_on_queue != 7)
     {
-      PRINT_IN_TASK("Queue is not full\r\n");
-      newline;
+      PRINT_IN_TASK("[QUEUE_EMPTY]\r\n");
     }
 
-    status = xQueueReceive(queue_handle, &dtReceivedDataFrame, 0);
+    status = xQueueReceive(queue_handle, &t_data_received, 0);
     if (status != pdPASS)
     {
-      PRINT_IN_TASK("Receive data failed!\r\n");
+      PRINT_IN_TASK("[GET_QUEUE_FAILED]\r\n");
     }
     else /* When receive data successfully */
     {
-      switch (dtReceivedDataFrame.eDataSource)
+      memset(main_string, 0, sizeof(main_string));
+      switch (t_data_received.e_data_source)
       {
       case (eChargePoint_1):
-        sprintf((main_string), "Received data from ChargePoint %d - Data = %d\n\n\r", dtReceivedDataFrame.eDataSource + 1, (int)dtReceivedDataFrame.ulValue);
+        sprintf((main_string), "[GET_QUEUE_SUCCESS] ChargePoint: %d - FW_Version: %s - Working State: %s\n\n\r", t_data_received.e_data_source + 1, t_data_received.t_device_property->pc_sw_version, pc_working_state[t_data_received.t_device_property->u8_working_state]);
         break;
       case (eChargePoint_2):
-        sprintf((main_string), "Received data from ChargePoint %d - Data = %d\n\n\r", dtReceivedDataFrame.eDataSource + 1, (int)dtReceivedDataFrame.ulValue);
+        sprintf((main_string), "[GET_QUEUE_SUCCESS] ChargePoint: %d - FW_Version: %s - Working State: %s\n\n\r", t_data_received.e_data_source + 1, t_data_received.t_device_property->pc_sw_version, pc_working_state[t_data_received.t_device_property->u8_working_state]);
         break;
       case (eChargePoint_3):
-        sprintf((main_string), "Received data from ChargePoint %d - Data = %d\n\n\r", dtReceivedDataFrame.eDataSource + 1, (int)dtReceivedDataFrame.ulValue);
+        sprintf((main_string), "[GET_QUEUE_SUCCESS] ChargePoint: %d - FW_Version: %s - Working State: %s\n\n\r", t_data_received.e_data_source + 1, t_data_received.t_device_property->pc_sw_version, pc_working_state[t_data_received.t_device_property->u8_working_state]);
         break;
       case (eChargePoint_4):
-        sprintf((main_string), "Received data from ChargePoint %d - Data = %d\n\n\r", dtReceivedDataFrame.eDataSource + 1, (int)dtReceivedDataFrame.ulValue);
+        sprintf((main_string), "[GET_QUEUE_SUCCESS] ChargePoint: %d - FW_Version: %s - Working State: %s\n\n\r", t_data_received.e_data_source + 1, t_data_received.t_device_property->pc_sw_version, pc_working_state[t_data_received.t_device_property->u8_working_state]);
         break;
       case (eChargePoint_5):
-        sprintf((main_string), "Received data from ChargePoint %d - Data = %d\n\n\r", dtReceivedDataFrame.eDataSource + 1, (int)dtReceivedDataFrame.ulValue);
+        sprintf((main_string), "[GET_QUEUE_SUCCESS] ChargePoint: %d - FW_Version: %s - Working State: %s\n\n\r", t_data_received.e_data_source + 1, t_data_received.t_device_property->pc_sw_version, pc_working_state[t_data_received.t_device_property->u8_working_state]);
         break;
       case (eChargePoint_6):
-        sprintf((main_string), "Received data from ChargePoint %d - Data = %d\n\n\r", dtReceivedDataFrame.eDataSource + 1, (int)dtReceivedDataFrame.ulValue);
+        sprintf((main_string), "[GET_QUEUE_SUCCESS] ChargePoint: %d - FW_Version: %s - Working State: %s\n\n\r", t_data_received.e_data_source + 1, t_data_received.t_device_property->pc_sw_version, pc_working_state[t_data_received.t_device_property->u8_working_state]);
         break;
       case (eGateway):
-        sprintf((main_string), "Received data from GateWay - Data = %d\n\n\r", (int)dtReceivedDataFrame.ulValue);
+        sprintf((main_string), "[GET_QUEUE_SUCCESS] ChargePoint: %d - FW_Version: %s - Working State: %s\n\n\r", t_data_received.e_data_source + 1, t_data_received.t_device_property->pc_sw_version, pc_working_state[t_data_received.t_device_property->u8_working_state]);
         break;
       default:
-        sprintf((main_string), "Unknown data %d from %d\n\n\r", (int)dtReceivedDataFrame.ulValue, dtReceivedDataFrame.eDataSource);
+        sprintf((main_string), "Unknown data");
         break;
       }
       PRINT_IN_TASK(main_string);

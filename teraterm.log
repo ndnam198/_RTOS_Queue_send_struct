@@ -1,0 +1,2793 @@
+
+[2020-10-27 23:38:50.103] 
+[2020-10-27 23:38:50.103] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Sender] - send_freq = 1730
+[2020-10-27 23:38:50.121] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Sender] - send_freq = 1102
+[2020-10-27 23:38:50.121] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Sender] - send_freq = 1986
+[2020-10-27 23:38:50.121] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Sender] - send_freq = 1448
+[2020-10-27 23:38:50.121] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Sender] - send_freq = 921
+[2020-10-27 23:38:50.121] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] 
+[2020-10-27 23:38:50.121] [Sender] - send_freq = 1884
+[2020-10-27 23:38:50.136] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Sender] - send_freq = 974
+[2020-10-27 23:38:50.136] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Sender] - send_freq = 1779
+[2020-10-27 23:38:50.136] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Sender] - send_freq = 1453
+[2020-10-27 23:38:50.136] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Sender] - send_freq = 1590
+[2020-10-27 23:38:50.136] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] 
+[2020-10-27 23:38:50.136] [Sender] - send_freq = 1660
+[2020-10-27 23:38:50.153] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Sender] - send_freq = 1374
+[2020-10-27 23:38:50.153] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Sender] - send_freq = 1328
+[2020-10-27 23:38:50.153] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Sender] - send_freq = 789
+[2020-10-27 23:38:50.153] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Sender] - send_freq = 1694
+[2020-10-27 23:38:50.153] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Sender] - send_freq = 1357
+[2020-10-27 23:38:50.153] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] 
+[2020-10-27 23:38:50.153] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Sender] - send_freq = 1032
+[2020-10-27 23:38:50.168] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Sender] - send_freq = 1865
+[2020-10-27 23:38:50.168] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Sender] - send_freq = 908
+[2020-10-27 23:38:50.168] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Sender] - send_freq = 1259
+[2020-10-27 23:38:50.168] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Sender] - send_freq = 913
+[2020-10-27 23:38:50.168] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Sender] - send_freq = 852
+[2020-10-27 23:38:50.168] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] 
+[2020-10-27 23:38:50.168] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Sender] - send_freq = 1812
+[2020-10-27 23:38:50.182] [Sender] - Cha
+[2020-10-27 23:38:50.182] [Sender] -rgePoint nu send_freq mber 3 start= 1308
+[2020-10-27 23:38:50.182] [s transferingSender] -  data
+[2020-10-27 23:38:50.182] ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Sender] - send_freq = 705
+[2020-10-27 23:38:50.182] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Sender] - send_freq = 1616
+[2020-10-27 23:38:50.182] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Sender] - send_freq = 1818
+[2020-10-27 23:38:50.182] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.182] 
+[2020-10-27 23:38:50.182] [Sender] - send_freq = 1489
+[2020-10-27 23:38:50.198] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Sender] - send_freq = 1750
+[2020-10-27 23:38:50.198] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Sender] - send_freq = 1565
+[2020-10-27 23:38:50.198] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Sender] - send_freq = 1720
+[2020-10-27 23:38:50.198] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Sender] - send_freq = 1637
+[2020-10-27 23:38:50.198] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] 
+[2020-10-27 23:38:50.198] [Sender] - send_freq = 1578
+[2020-10-27 23:38:50.213] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.213] 
+[2020-10-27 23:38:50.213] [Sender] - send_freq = 1298
+[2020-10-27 23:38:50.213] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.213] 
+[2020-10-27 23:38:50.214] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Sender] - send_freq = 1410
+[2020-10-27 23:38:50.214] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Sender] - send_freq = 1777
+[2020-10-27 23:38:50.214] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Sender] - send_freq = 974
+[2020-10-27 23:38:50.214] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Sender] - send_freq = 1548
+[2020-10-27 23:38:50.214] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] 
+[2020-10-27 23:38:50.214] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] [Sender] - send_freq = 1651
+[2020-10-27 23:38:50.239] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] [Sender] - send_freq = 845
+[2020-10-27 23:38:50.239] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] [Sender] - send_freq = 1893
+[2020-10-27 23:38:50.239] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] [Sender] - send_freq = 704
+[2020-10-27 23:38:50.239] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.239] 
+[2020-10-27 23:38:50.239] [Sender] - send_freq = 1766
+[2020-10-27 23:38:50.240] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.240] 
+[2020-10-27 23:38:50.240] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.240] 
+[2020-10-27 23:38:50.240] 
+[2020-10-27 23:38:50.240] [Sender] - send_freq = 528
+[2020-10-27 23:38:50.240] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.240] 
+[2020-10-27 23:38:50.240] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.240] 
+[2020-10-27 23:38:50.240] 
+[2020-10-27 23:38:50.240] [Sender] - send_freq = 521
+[2020-10-27 23:38:50.261] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Sender] - send_freq = 1101
+[2020-10-27 23:38:50.261] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Sender] - send_freq = 1769
+[2020-10-27 23:38:50.261] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Sender] - send_freq = 1284
+[2020-10-27 23:38:50.261] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.261] [Sender] - [QUEUE_FULL] ChargePoint number 5 failed to transfer data
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Sender] - send_freq = 646
+[2020-10-27 23:38:50.261] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.261] 
+[2020-10-27 23:38:50.261] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Sender] - send_freq = 792
+[2020-10-27 23:38:50.277] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Sender] - send_freq = 1989
+[2020-10-27 23:38:50.277] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Sender] - send_freq = 575
+[2020-10-27 23:38:50.277] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Sender] - send_freq = 1835
+[2020-10-27 23:38:50.277] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Sender] - send_freq = 544
+[2020-10-27 23:38:50.277] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Sender] - send_freq = 1584
+[2020-10-27 23:38:50.277] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.277] 
+[2020-10-27 23:38:50.277] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Sender] - send_freq = 1345
+[2020-10-27 23:38:50.294] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Sender] - send_freq = 1956
+[2020-10-27 23:38:50.294] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Sender] - send_freq = 1225
+[2020-10-27 23:38:50.294] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Sender] - send_freq = 532
+[2020-10-27 23:38:50.294] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Sender] - send_freq = 1408
+[2020-10-27 23:38:50.294] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] 
+[2020-10-27 23:38:50.294] [Receiver] - [GET_QUEUE_SUCCESS]
+[2020-10-27 23:38:50.294] [Sender] - send_freq = 1020
+[2020-10-27 23:38:50.294] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:50.294] 0 starts transfering data
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.298] [Sender] - send_freq = 600
+[2020-10-27 23:38:50.298] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.298] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.298] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.298] [Sender] - send_freq = 1221
+[2020-10-27 23:38:50.298] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.298] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:50.298] 
+[2020-10-27 23:38:50.451] 
+[2020-10-27 23:38:50.451] [Sender] - send_freq = 957
+[2020-10-27 23:38:50.451] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:50.510] 
+[2020-10-27 23:38:50.510] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:50.517] 
+[2020-10-27 23:38:50.960] 
+[2020-10-27 23:38:50.960] [Sender] - send_freq = 1972
+[2020-10-27 23:38:50.960] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:51.070] 
+[2020-10-27 23:38:51.070] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:51.070] 
+[2020-10-27 23:38:51.171] 
+[2020-10-27 23:38:51.171] [Sender] - send_freq = 661
+[2020-10-27 23:38:51.171] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:51.526] 
+[2020-10-27 23:38:51.526] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:51.533] 
+[2020-10-27 23:38:51.927] 
+[2020-10-27 23:38:51.927] [Sender] - send_freq = 1925
+[2020-10-27 23:38:51.927] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:52.035] 
+[2020-10-27 23:38:52.035] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:52.043] 
+[2020-10-27 23:38:52.441] 
+[2020-10-27 23:38:52.441] [Sender] - send_freq = 915
+[2020-10-27 23:38:52.441] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:52.543] 
+[2020-10-27 23:38:52.543] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:52.550] 
+[2020-10-27 23:38:52.758] 
+[2020-10-27 23:38:52.758] [Sender] - send_freq = 1740
+[2020-10-27 23:38:52.758] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:53.051] 
+[2020-10-27 23:38:53.051] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:53.058] 
+[2020-10-27 23:38:53.174] 
+[2020-10-27 23:38:53.174] [Sender] - send_freq = 631
+[2020-10-27 23:38:53.174] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:53.559] 
+[2020-10-27 23:38:53.559] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:53.566] 
+[2020-10-27 23:38:53.890] 
+[2020-10-27 23:38:53.890] [Sender] - send_freq = 1854
+[2020-10-27 23:38:53.890] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:54.067] 
+[2020-10-27 23:38:54.067] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:54.073] 
+[2020-10-27 23:38:54.427] 
+[2020-10-27 23:38:54.427] [Sender] - send_freq = 868
+[2020-10-27 23:38:54.427] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:54.575] 
+[2020-10-27 23:38:54.575] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:54.582] 
+[2020-10-27 23:38:54.953] 
+[2020-10-27 23:38:54.953] [Sender] - send_freq = 1902
+[2020-10-27 23:38:54.953] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:55.083] 
+[2020-10-27 23:38:55.083] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:55.090] 
+[2020-10-27 23:38:55.106] 
+[2020-10-27 23:38:55.106] [Sender] - send_freq = 1040
+[2020-10-27 23:38:55.106] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:55.592] 
+[2020-10-27 23:38:55.592] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:55.599] 
+[2020-10-27 23:38:55.931] 
+[2020-10-27 23:38:55.931] [Sender] - send_freq = 1356
+[2020-10-27 23:38:55.931] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:56.100] 
+[2020-10-27 23:38:56.100] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:56.106] 
+[2020-10-27 23:38:56.244] 
+[2020-10-27 23:38:56.244] [Sender] - send_freq = 1161
+[2020-10-27 23:38:56.244] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:38:56.608] 
+[2020-10-27 23:38:56.608] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:38:56.615] 
+[2020-10-27 23:38:57.116] 
+[2020-10-27 23:38:57.116] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:38:57.123] 
+[2020-10-27 23:38:57.440] 
+[2020-10-27 23:38:57.440] [Sender] - send_freq = 1848
+[2020-10-27 23:38:57.440] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:38:57.623] 
+[2020-10-27 23:38:57.623] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:38:57.631] 
+[2020-10-27 23:38:57.727] 
+[2020-10-27 23:38:57.727] [Sender] - send_freq = 1627
+[2020-10-27 23:38:57.727] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:38:58.132] 
+[2020-10-27 23:38:58.132] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:38:58.139] 
+[2020-10-27 23:38:58.181] 
+[2020-10-27 23:38:58.182] [Sender] - send_freq = 1574
+[2020-10-27 23:38:58.182] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:38:58.643] 
+[2020-10-27 23:38:58.643] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:38:58.648] 
+[2020-10-27 23:38:58.675] 
+[2020-10-27 23:38:58.675] [Sender] - send_freq = 544
+[2020-10-27 23:38:58.675] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:38:58.711] 
+[2020-10-27 23:38:58.711] [Sender] - send_freq = 1596
+[2020-10-27 23:38:58.711] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:38:59.149] 
+[2020-10-27 23:38:59.149] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:38:59.154] 
+[2020-10-27 23:38:59.580] 
+[2020-10-27 23:38:59.580] [Sender] - send_freq = 1956
+[2020-10-27 23:38:59.580] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:38:59.659] 
+[2020-10-27 23:38:59.659] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:38:59.666] 
+[2020-10-27 23:38:59.855] 
+[2020-10-27 23:38:59.855] [Sender] - send_freq = 1214
+[2020-10-27 23:38:59.855] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:00.165] 
+[2020-10-27 23:39:00.165] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:00.171] 
+[2020-10-27 23:39:00.674] 
+[2020-10-27 23:39:00.674] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:00.682] 
+[2020-10-27 23:39:00.758] 
+[2020-10-27 23:39:00.758] [Sender] - send_freq = 1609
+[2020-10-27 23:39:00.758] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:01.181] 
+[2020-10-27 23:39:01.181] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:01.188] 
+[2020-10-27 23:39:01.314] 
+[2020-10-27 23:39:01.314] [Sender] - send_freq = 1658
+[2020-10-27 23:39:01.314] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:01.689] 
+[2020-10-27 23:39:01.689] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:01.696] 
+[2020-10-27 23:39:01.915] 
+[2020-10-27 23:39:01.915] [Sender] - send_freq = 1750
+[2020-10-27 23:39:01.915] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:02.067] 
+[2020-10-27 23:39:02.067] [Sender] - send_freq = 1394
+[2020-10-27 23:39:02.067] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:02.198] 
+[2020-10-27 23:39:02.198] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:02.204] 
+[2020-10-27 23:39:02.706] 
+[2020-10-27 23:39:02.706] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:02.713] 
+[2020-10-27 23:39:02.723] 
+[2020-10-27 23:39:02.723] [Sender] - send_freq = 1034
+[2020-10-27 23:39:02.723] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:02.956] 
+[2020-10-27 23:39:02.956] [Sender] - send_freq = 1775
+[2020-10-27 23:39:02.956] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:03.183] 
+[2020-10-27 23:39:03.183] [Sender] - send_freq = 986
+[2020-10-27 23:39:03.183] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:03.213] 
+[2020-10-27 23:39:03.213] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:03.220] 
+[2020-10-27 23:39:03.622] 
+[2020-10-27 23:39:03.622] [Sender] - send_freq = 916
+[2020-10-27 23:39:03.622] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:03.722] 
+[2020-10-27 23:39:03.722] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:03.728] 
+[2020-10-27 23:39:04.230] 
+[2020-10-27 23:39:04.230] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:04.236] 
+[2020-10-27 23:39:04.368] 
+[2020-10-27 23:39:04.368] [Sender] - send_freq = 1154
+[2020-10-27 23:39:04.368] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:04.650] 
+[2020-10-27 23:39:04.650] [Sender] - send_freq = 928
+[2020-10-27 23:39:04.650] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:04.739] 
+[2020-10-27 23:39:04.739] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:04.745] 
+[2020-10-27 23:39:04.758] 
+[2020-10-27 23:39:04.758] [Sender] - send_freq = 528
+[2020-10-27 23:39:04.758] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:05.247] 
+[2020-10-27 23:39:05.247] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:05.253] 
+[2020-10-27 23:39:05.755] 
+[2020-10-27 23:39:05.755] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:05.761] 
+[2020-10-27 23:39:05.912] 
+[2020-10-27 23:39:05.912] [Sender] - send_freq = 1173
+[2020-10-27 23:39:05.912] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:06.209] 
+[2020-10-27 23:39:06.209] [Sender] - send_freq = 962
+[2020-10-27 23:39:06.209] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:06.263] 
+[2020-10-27 23:39:06.263] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:06.269] 
+[2020-10-27 23:39:06.627] 
+[2020-10-27 23:39:06.627] [Sender] - send_freq = 873
+[2020-10-27 23:39:06.627] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:06.771] 
+[2020-10-27 23:39:06.771] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:06.777] 
+[2020-10-27 23:39:07.279] 
+[2020-10-27 23:39:07.279] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:07.285] 
+[2020-10-27 23:39:07.352] 
+[2020-10-27 23:39:07.352] [Sender] - send_freq = 1089
+[2020-10-27 23:39:07.352] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:07.764] [Sender] - [QUEUE_FULL] ChargePoint number 4 failed to transfer data
+[2020-10-27 23:39:07.787] 
+[2020-10-27 23:39:07.787] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:07.794] 
+[2020-10-27 23:39:08.296] 
+[2020-10-27 23:39:08.296] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:08.302] 
+[2020-10-27 23:39:08.382] 
+[2020-10-27 23:39:08.382] [Sender] - send_freq = 1612
+[2020-10-27 23:39:08.382] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:08.437] 
+[2020-10-27 23:39:08.437] [Sender] - send_freq = 650
+[2020-10-27 23:39:08.437] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:08.461] 
+[2020-10-27 23:39:08.461] [Sender] - send_freq = 1183
+[2020-10-27 23:39:08.461] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:08.804] 
+[2020-10-27 23:39:08.804] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:08.810] 
+[2020-10-27 23:39:09.209] 
+[2020-10-27 23:39:09.209] [Sender] - send_freq = 1438
+[2020-10-27 23:39:09.209] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:09.311] 
+[2020-10-27 23:39:09.311] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:09.318] 
+[2020-10-27 23:39:09.610] 
+[2020-10-27 23:39:09.610] [Sender] - send_freq = 1315
+[2020-10-27 23:39:09.610] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:09.820] 
+[2020-10-27 23:39:09.820] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:09.825] 
+[2020-10-27 23:39:10.327] 
+[2020-10-27 23:39:10.327] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:10.334] 
+[2020-10-27 23:39:10.491] 
+[2020-10-27 23:39:10.491] [Sender] - send_freq = 1180
+[2020-10-27 23:39:10.491] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:10.637] 
+[2020-10-27 23:39:10.637] [Sender] - send_freq = 1834
+[2020-10-27 23:39:10.637] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:10.835] 
+[2020-10-27 23:39:10.835] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:10.841] 
+[2020-10-27 23:39:11.343] 
+[2020-10-27 23:39:11.343] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:11.351] 
+[2020-10-27 23:39:11.395] 
+[2020-10-27 23:39:11.395] [Sender] - send_freq = 1068
+[2020-10-27 23:39:11.395] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:11.606] 
+[2020-10-27 23:39:11.606] [Sender] - send_freq = 1786
+[2020-10-27 23:39:11.606] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:11.852] 
+[2020-10-27 23:39:11.852] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:11.859] 
+[2020-10-27 23:39:12.278] 
+[2020-10-27 23:39:12.278] [Sender] - send_freq = 1443
+[2020-10-27 23:39:12.278] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:12.359] 
+[2020-10-27 23:39:12.359] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:12.365] 
+[2020-10-27 23:39:12.545] 
+[2020-10-27 23:39:12.545] [Sender] - send_freq = 1202
+[2020-10-27 23:39:12.545] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:12.867] 
+[2020-10-27 23:39:12.867] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:12.874] 
+[2020-10-27 23:39:13.376] 
+[2020-10-27 23:39:13.376] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:13.383] 
+[2020-10-27 23:39:13.585] 
+[2020-10-27 23:39:13.585] [Sender] - send_freq = 1734
+[2020-10-27 23:39:13.585] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:13.747] 
+[2020-10-27 23:39:13.747] [Sender] - send_freq = 880
+[2020-10-27 23:39:13.747] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:13.883] 
+[2020-10-27 23:39:13.883] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:13.892] 
+[2020-10-27 23:39:14.125] 
+[2020-10-27 23:39:14.125] [Sender] - send_freq = 1766
+[2020-10-27 23:39:14.125] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:14.391] 
+[2020-10-27 23:39:14.391] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:14.397] 
+[2020-10-27 23:39:14.688] 
+[2020-10-27 23:39:14.688] [Sender] - send_freq = 1311
+[2020-10-27 23:39:14.688] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:14.881] 
+[2020-10-27 23:39:14.881] [Sender] - send_freq = 998
+[2020-10-27 23:39:14.881] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:14.900] 
+[2020-10-27 23:39:14.900] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:14.906] 
+[2020-10-27 23:39:14.942] 
+[2020-10-27 23:39:14.942] [Sender] - send_freq = 551
+[2020-10-27 23:39:14.942] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:15.409] 
+[2020-10-27 23:39:15.409] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:15.417] 
+[2020-10-27 23:39:15.445] 
+[2020-10-27 23:39:15.445] [Sender] - send_freq = 545
+[2020-10-27 23:39:15.445] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:15.917] 
+[2020-10-27 23:39:15.917] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:15.923] 
+[2020-10-27 23:39:16.419] 
+[2020-10-27 23:39:16.419] [Sender] - send_freq = 1011
+[2020-10-27 23:39:16.419] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:16.424] 
+[2020-10-27 23:39:16.424] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:16.433] 
+[2020-10-27 23:39:16.674] 
+[2020-10-27 23:39:16.674] [Sender] - send_freq = 758
+[2020-10-27 23:39:16.674] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:16.935] 
+[2020-10-27 23:39:16.935] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:16.943] 
+[2020-10-27 23:39:17.352] 
+[2020-10-27 23:39:17.352] [Sender] - send_freq = 924
+[2020-10-27 23:39:17.352] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:17.443] 
+[2020-10-27 23:39:17.443] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:17.450] 
+[2020-10-27 23:39:17.521] 
+[2020-10-27 23:39:17.521] [Sender] - send_freq = 586
+[2020-10-27 23:39:17.521] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:17.949] [Sender] - [QUEUE_FULL] ChargePoint number 1 failed to transfer data
+[2020-10-27 23:39:17.955] 
+[2020-10-27 23:39:17.955] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:17.962] 
+[2020-10-27 23:39:18.172] 
+[2020-10-27 23:39:18.172] [Sender] - send_freq = 729
+[2020-10-27 23:39:18.172] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:18.463] 
+[2020-10-27 23:39:18.463] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:18.472] 
+[2020-10-27 23:39:18.972] 
+[2020-10-27 23:39:18.972] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:18.979] 
+[2020-10-27 23:39:19.481] 
+[2020-10-27 23:39:19.481] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:19.486] 
+[2020-10-27 23:39:19.576] 
+[2020-10-27 23:39:19.576] [Sender] - send_freq = 1621
+[2020-10-27 23:39:19.576] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:19.894] 
+[2020-10-27 23:39:19.894] [Sender] - send_freq = 1938
+[2020-10-27 23:39:19.894] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:19.989] 
+[2020-10-27 23:39:19.989] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:19.995] 
+[2020-10-27 23:39:20.460] 
+[2020-10-27 23:39:20.460] [Sender] - send_freq = 1997
+[2020-10-27 23:39:20.460] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:20.496] 
+[2020-10-27 23:39:20.496] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:20.503] 
+[2020-10-27 23:39:20.530] 
+[2020-10-27 23:39:20.530] [Sender] - send_freq = 1558
+[2020-10-27 23:39:20.530] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:20.766] 
+[2020-10-27 23:39:20.766] [Sender] - send_freq = 777
+[2020-10-27 23:39:20.766] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:21.011] 
+[2020-10-27 23:39:21.011] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:21.012] 
+[2020-10-27 23:39:21.069] 
+[2020-10-27 23:39:21.069] [Sender] - send_freq = 573
+[2020-10-27 23:39:21.069] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:21.383] 
+[2020-10-27 23:39:21.383] [Sender] - send_freq = 1903
+[2020-10-27 23:39:21.383] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:21.509] 
+[2020-10-27 23:39:21.509] [Sender] - send_freq = 505
+[2020-10-27 23:39:21.509] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:21.514] 
+[2020-10-27 23:39:21.514] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:21.524] 
+[2020-10-27 23:39:22.025] 
+[2020-10-27 23:39:22.025] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:22.031] 
+[2020-10-27 23:39:22.533] 
+[2020-10-27 23:39:22.533] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:22.539] 
+[2020-10-27 23:39:23.040] 
+[2020-10-27 23:39:23.040] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:23.047] 
+[2020-10-27 23:39:23.234] 
+[2020-10-27 23:39:23.234] [Sender] - send_freq = 1719
+[2020-10-27 23:39:23.234] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:23.549] 
+[2020-10-27 23:39:23.549] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:23.557] 
+[2020-10-27 23:39:23.755] 
+[2020-10-27 23:39:23.755] [Sender] - send_freq = 1731
+[2020-10-27 23:39:23.756] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:23.981] 
+[2020-10-27 23:39:23.981] [Sender] - send_freq = 1449
+[2020-10-27 23:39:23.981] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:24.056] 
+[2020-10-27 23:39:24.056] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:24.063] 
+[2020-10-27 23:39:24.376] 
+[2020-10-27 23:39:24.376] [Sender] - send_freq = 827
+[2020-10-27 23:39:24.376] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:24.515] [Sender] - [QUEUE_FULL] ChargePoint number 1 failed to transfer data
+[2020-10-27 23:39:24.565] 
+[2020-10-27 23:39:24.565] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:24.571] 
+[2020-10-27 23:39:24.997] 
+[2020-10-27 23:39:24.997] [Sender] - send_freq = 1956
+[2020-10-27 23:39:24.997] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:25.072] 
+[2020-10-27 23:39:25.072] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:25.079] 
+[2020-10-27 23:39:25.581] 
+[2020-10-27 23:39:25.581] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:25.589] 
+[2020-10-27 23:39:25.749] 
+[2020-10-27 23:39:25.749] [Sender] - send_freq = 1693
+[2020-10-27 23:39:25.749] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:26.090] 
+[2020-10-27 23:39:26.090] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:26.095] 
+[2020-10-27 23:39:26.145] 
+[2020-10-27 23:39:26.145] [Sender] - send_freq = 1073
+[2020-10-27 23:39:26.145] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:26.286] 
+[2020-10-27 23:39:26.286] [Sender] - send_freq = 1721
+[2020-10-27 23:39:26.286] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:26.353] 
+[2020-10-27 23:39:26.354] [Sender] - send_freq = 1832
+[2020-10-27 23:39:26.354] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:26.597] 
+[2020-10-27 23:39:26.597] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:26.604] 
+[2020-10-27 23:39:26.778] 
+[2020-10-27 23:39:26.778] [Sender] - send_freq = 1196
+[2020-10-27 23:39:26.778] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:27.106] 
+[2020-10-27 23:39:27.106] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:27.113] 
+[2020-10-27 23:39:27.585] 
+[2020-10-27 23:39:27.585] [Sender] - send_freq = 1496
+[2020-10-27 23:39:27.585] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:27.614] 
+[2020-10-27 23:39:27.614] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:27.619] 
+[2020-10-27 23:39:27.720] 
+[2020-10-27 23:39:27.720] [Sender] - send_freq = 1122
+[2020-10-27 23:39:27.720] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:27.945] 
+[2020-10-27 23:39:27.945] [Sender] - send_freq = 840
+[2020-10-27 23:39:27.945] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:28.122] 
+[2020-10-27 23:39:28.122] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:28.129] 
+[2020-10-27 23:39:28.204] 
+[2020-10-27 23:39:28.204] [Sender] - send_freq = 591
+[2020-10-27 23:39:28.204] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:28.630] 
+[2020-10-27 23:39:28.630] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:28.637] 
+[2020-10-27 23:39:28.681] 
+[2020-10-27 23:39:28.681] [Sender] - send_freq = 560
+[2020-10-27 23:39:28.681] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:29.139] 
+[2020-10-27 23:39:29.139] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:29.145] 
+[2020-10-27 23:39:29.343] 
+[2020-10-27 23:39:29.343] [Sender] - send_freq = 713
+[2020-10-27 23:39:29.343] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:29.646] 
+[2020-10-27 23:39:29.646] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:29.654] 
+[2020-10-27 23:39:30.156] 
+[2020-10-27 23:39:30.156] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:30.162] 
+[2020-10-27 23:39:30.616] 
+[2020-10-27 23:39:30.616] [Sender] - send_freq = 1478
+[2020-10-27 23:39:30.616] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:30.663] 
+[2020-10-27 23:39:30.663] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:30.668] 
+[2020-10-27 23:39:30.737] 
+[2020-10-27 23:39:30.737] [Sender] - send_freq = 583
+[2020-10-27 23:39:30.737] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:31.164] 
+[2020-10-27 23:39:31.164] [Sender] - send_freq = 1518
+[2020-10-27 23:39:31.164] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:31.169] 
+[2020-10-27 23:39:31.169] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:31.179] 
+[2020-10-27 23:39:31.681] 
+[2020-10-27 23:39:31.681] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:31.688] 
+[2020-10-27 23:39:31.891] 
+[2020-10-27 23:39:31.891] [Sender] - send_freq = 1229
+[2020-10-27 23:39:31.891] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:32.189] 
+[2020-10-27 23:39:32.189] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:32.195] 
+[2020-10-27 23:39:32.432] 
+[2020-10-27 23:39:32.432] [Sender] - send_freq = 752
+[2020-10-27 23:39:32.432] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:32.492] 
+[2020-10-27 23:39:32.492] [Sender] - send_freq = 1321
+[2020-10-27 23:39:32.492] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:32.691] 
+[2020-10-27 23:39:32.691] [Sender] - send_freq = 501
+[2020-10-27 23:39:32.691] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:32.696] 
+[2020-10-27 23:39:32.696] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:32.704] 
+[2020-10-27 23:39:33.206] 
+[2020-10-27 23:39:33.206] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:33.214] 
+[2020-10-27 23:39:33.329] 
+[2020-10-27 23:39:33.329] [Sender] - send_freq = 632
+[2020-10-27 23:39:33.329] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:33.714] 
+[2020-10-27 23:39:33.714] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:33.721] 
+[2020-10-27 23:39:34.222] 
+[2020-10-27 23:39:34.222] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:34.229] 
+[2020-10-27 23:39:34.318] 
+[2020-10-27 23:39:34.318] [Sender] - send_freq = 1112
+[2020-10-27 23:39:34.318] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:34.435] 
+[2020-10-27 23:39:34.435] [Sender] - send_freq = 721
+[2020-10-27 23:39:34.435] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:34.730] 
+[2020-10-27 23:39:34.730] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:34.737] 
+[2020-10-27 23:39:35.238] 
+[2020-10-27 23:39:35.238] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:35.246] 
+[2020-10-27 23:39:35.426] 
+[2020-10-27 23:39:35.426] [Sender] - send_freq = 696
+[2020-10-27 23:39:35.426] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:35.696] [Sender] - [QUEUE_FULL] ChargePoint number 1 failed to transfer data
+[2020-10-27 23:39:35.747] 
+[2020-10-27 23:39:35.747] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:35.753] 
+[2020-10-27 23:39:36.083] 
+[2020-10-27 23:39:36.083] [Sender] - send_freq = 1861
+[2020-10-27 23:39:36.083] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:36.255] 
+[2020-10-27 23:39:36.255] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:36.261] 
+[2020-10-27 23:39:36.593] 
+[2020-10-27 23:39:36.593] [Sender] - send_freq = 1355
+[2020-10-27 23:39:36.593] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:36.763] 
+[2020-10-27 23:39:36.763] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:36.770] 
+[2020-10-27 23:39:36.987] 
+[2020-10-27 23:39:36.987] [Sender] - send_freq = 1283
+[2020-10-27 23:39:36.987] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:37.271] 
+[2020-10-27 23:39:37.271] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:37.278] 
+[2020-10-27 23:39:37.559] 
+[2020-10-27 23:39:37.559] [Sender] - send_freq = 1813
+[2020-10-27 23:39:37.559] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:37.645] 
+[2020-10-27 23:39:37.645] [Sender] - send_freq = 883
+[2020-10-27 23:39:37.645] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:37.777] 
+[2020-10-27 23:39:37.777] [Sender] - send_freq = 1522
+[2020-10-27 23:39:37.777] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:37.782] 
+[2020-10-27 23:39:37.782] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:37.791] 
+[2020-10-27 23:39:38.293] 
+[2020-10-27 23:39:38.293] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:38.300] 
+[2020-10-27 23:39:38.576] 
+[2020-10-27 23:39:38.576] [Sender] - send_freq = 791
+[2020-10-27 23:39:38.576] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:38.802] 
+[2020-10-27 23:39:38.802] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:38.809] 
+[2020-10-27 23:39:39.025] 
+[2020-10-27 23:39:39.025] [Sender] - send_freq = 1754
+[2020-10-27 23:39:39.025] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:39.310] 
+[2020-10-27 23:39:39.310] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:39.316] 
+[2020-10-27 23:39:39.359] 
+[2020-10-27 23:39:39.359] [Sender] - send_freq = 557
+[2020-10-27 23:39:39.359] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:39.696] 
+[2020-10-27 23:39:39.696] [Sender] - send_freq = 1403
+[2020-10-27 23:39:39.696] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:39.819] 
+[2020-10-27 23:39:39.819] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:39.825] 
+[2020-10-27 23:39:39.936] 
+[2020-10-27 23:39:39.936] [Sender] - send_freq = 626
+[2020-10-27 23:39:39.936] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:40.326] 
+[2020-10-27 23:39:40.326] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:40.333] 
+[2020-10-27 23:39:40.833] 
+[2020-10-27 23:39:40.833] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:40.841] 
+[2020-10-27 23:39:41.290] 
+[2020-10-27 23:39:41.290] [Sender] - send_freq = 1473
+[2020-10-27 23:39:41.290] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:41.343] 
+[2020-10-27 23:39:41.343] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:41.349] 
+[2020-10-27 23:39:41.851] 
+[2020-10-27 23:39:41.851] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:41.858] 
+[2020-10-27 23:39:41.939] 
+[2020-10-27 23:39:41.939] [Sender] - send_freq = 1614
+[2020-10-27 23:39:41.939] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:41.959] 
+[2020-10-27 23:39:41.959] [Sender] - send_freq = 1126
+[2020-10-27 23:39:41.959] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:42.359] 
+[2020-10-27 23:39:42.359] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:42.366] 
+[2020-10-27 23:39:42.866] 
+[2020-10-27 23:39:42.866] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:42.873] 
+[2020-10-27 23:39:43.056] 
+[2020-10-27 23:39:43.056] [Sender] - send_freq = 1714
+[2020-10-27 23:39:43.056] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:43.375] 
+[2020-10-27 23:39:43.375] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:43.381] 
+[2020-10-27 23:39:43.453] 
+[2020-10-27 23:39:43.453] [Sender] - send_freq = 1602
+[2020-10-27 23:39:43.453] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:43.714] 
+[2020-10-27 23:39:43.714] [Sender] - send_freq = 1356
+[2020-10-27 23:39:43.714] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:43.882] 
+[2020-10-27 23:39:43.882] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:43.889] 
+[2020-10-27 23:39:44.391] 
+[2020-10-27 23:39:44.391] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:44.398] 
+[2020-10-27 23:39:44.784] 
+[2020-10-27 23:39:44.784] [Sender] - send_freq = 1918
+[2020-10-27 23:39:44.784] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:44.892] 
+[2020-10-27 23:39:44.892] [Sender] - send_freq = 1517
+[2020-10-27 23:39:44.892] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:44.897] 
+[2020-10-27 23:39:44.897] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:44.906] 
+[2020-10-27 23:39:45.407] 
+[2020-10-27 23:39:45.407] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:45.413] 
+[2020-10-27 23:39:45.679] 
+[2020-10-27 23:39:45.679] [Sender] - send_freq = 1796
+[2020-10-27 23:39:45.679] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:45.915] 
+[2020-10-27 23:39:45.915] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:45.922] 
+[2020-10-27 23:39:46.144] 
+[2020-10-27 23:39:46.144] [Sender] - send_freq = 1753
+[2020-10-27 23:39:46.144] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:46.424] 
+[2020-10-27 23:39:46.424] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:46.430] 
+[2020-10-27 23:39:46.553] 
+[2020-10-27 23:39:46.553] [Sender] - send_freq = 1653
+[2020-10-27 23:39:46.553] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:46.931] 
+[2020-10-27 23:39:46.931] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:46.938] 
+[2020-10-27 23:39:47.298] 
+[2020-10-27 23:39:47.298] [Sender] - send_freq = 1890
+[2020-10-27 23:39:47.298] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:47.440] 
+[2020-10-27 23:39:47.440] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:47.447] 
+[2020-10-27 23:39:47.447] 
+[2020-10-27 23:39:47.447] [Sender] - send_freq = 1025
+[2020-10-27 23:39:47.450] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:47.704] 
+[2020-10-27 23:39:47.704] [Sender] - send_freq = 1789
+[2020-10-27 23:39:47.704] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:47.947] 
+[2020-10-27 23:39:47.947] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:47.953] 
+[2020-10-27 23:39:48.456] 
+[2020-10-27 23:39:48.456] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:48.462] 
+[2020-10-27 23:39:48.548] 
+[2020-10-27 23:39:48.548] [Sender] - send_freq = 1616
+[2020-10-27 23:39:48.548] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:48.965] 
+[2020-10-27 23:39:48.965] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:48.970] 
+[2020-10-27 23:39:49.382] 
+[2020-10-27 23:39:49.382] [Sender] - send_freq = 1943
+[2020-10-27 23:39:49.382] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:49.472] 
+[2020-10-27 23:39:49.472] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:49.479] 
+[2020-10-27 23:39:49.834] 
+[2020-10-27 23:39:49.834] [Sender] - send_freq = 1886
+[2020-10-27 23:39:49.834] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:49.980] 
+[2020-10-27 23:39:49.980] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:49.987] 
+[2020-10-27 23:39:50.024] 
+[2020-10-27 23:39:50.024] [Sender] - send_freq = 1569
+[2020-10-27 23:39:50.024] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:50.322] 
+[2020-10-27 23:39:50.322] [Sender] - send_freq = 1358
+[2020-10-27 23:39:50.322] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:50.488] 
+[2020-10-27 23:39:50.488] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:50.495] 
+[2020-10-27 23:39:50.538] 
+[2020-10-27 23:39:50.538] [Sender] - send_freq = 558
+[2020-10-27 23:39:50.538] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:50.996] 
+[2020-10-27 23:39:50.996] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:51.003] 
+[2020-10-27 23:39:51.311] 
+[2020-10-27 23:39:51.311] [Sender] - send_freq = 1838
+[2020-10-27 23:39:51.311] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:51.504] 
+[2020-10-27 23:39:51.504] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:51.510] 
+[2020-10-27 23:39:51.793] 
+[2020-10-27 23:39:51.793] [Sender] - send_freq = 797
+[2020-10-27 23:39:51.793] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:51.827] 
+[2020-10-27 23:39:51.827] [Sender] - send_freq = 1339
+[2020-10-27 23:39:51.827] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:52.012] 
+[2020-10-27 23:39:52.012] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:52.019] 
+[2020-10-27 23:39:52.170] 
+[2020-10-27 23:39:52.170] [Sender] - send_freq = 665
+[2020-10-27 23:39:52.170] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:52.521] 
+[2020-10-27 23:39:52.521] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:52.528] 
+[2020-10-27 23:39:52.803] 
+[2020-10-27 23:39:52.803] [Sender] - send_freq = 791
+[2020-10-27 23:39:52.803] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:53.030] 
+[2020-10-27 23:39:53.030] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:53.036] 
+[2020-10-27 23:39:53.290] 
+[2020-10-27 23:39:53.290] [Sender] - send_freq = 769
+[2020-10-27 23:39:53.290] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:53.538] 
+[2020-10-27 23:39:53.538] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:53.544] 
+[2020-10-27 23:39:54.045] 
+[2020-10-27 23:39:54.045] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:54.053] 
+[2020-10-27 23:39:54.553] 
+[2020-10-27 23:39:54.553] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:54.560] 
+[2020-10-27 23:39:54.576] 
+[2020-10-27 23:39:54.576] [Sender] - send_freq = 1547
+[2020-10-27 23:39:54.576] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:54.713] 
+[2020-10-27 23:39:54.713] [Sender] - send_freq = 1176
+[2020-10-27 23:39:54.713] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:54.817] 
+[2020-10-27 23:39:54.817] [Sender] - send_freq = 772
+[2020-10-27 23:39:54.817] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:55.061] 
+[2020-10-27 23:39:55.061] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:55.067] 
+[2020-10-27 23:39:55.569] 
+[2020-10-27 23:39:55.569] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:55.576] 
+[2020-10-27 23:39:56.078] 
+[2020-10-27 23:39:56.078] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:56.084] 
+[2020-10-27 23:39:56.269] 
+[2020-10-27 23:39:56.269] [Sender] - send_freq = 700
+[2020-10-27 23:39:56.269] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:56.346] 
+[2020-10-27 23:39:56.346] [Sender] - send_freq = 1793
+[2020-10-27 23:39:56.346] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:39:56.586] 
+[2020-10-27 23:39:56.586] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:39:56.593] 
+[2020-10-27 23:39:56.957] 
+[2020-10-27 23:39:56.957] [Sender] - send_freq = 879
+[2020-10-27 23:39:56.957] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:39:56.976] 
+[2020-10-27 23:39:56.976] [Sender] - send_freq = 1915
+[2020-10-27 23:39:56.976] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:39:57.094] 
+[2020-10-27 23:39:57.094] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:39:57.100] 
+[2020-10-27 23:39:57.602] 
+[2020-10-27 23:39:57.602] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:39:57.609] 
+[2020-10-27 23:39:58.040] 
+[2020-10-27 23:39:58.040] [Sender] - send_freq = 946
+[2020-10-27 23:39:58.040] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:39:58.110] 
+[2020-10-27 23:39:58.110] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:39:58.117] 
+[2020-10-27 23:39:58.206] 
+[2020-10-27 23:39:58.206] [Sender] - send_freq = 1620
+[2020-10-27 23:39:58.206] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:39:58.618] 
+[2020-10-27 23:39:58.618] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:39:58.624] 
+[2020-10-27 23:39:59.125] 
+[2020-10-27 23:39:59.125] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:39:59.133] 
+[2020-10-27 23:39:59.267] 
+[2020-10-27 23:39:59.267] [Sender] - send_freq = 1157
+[2020-10-27 23:39:59.267] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:39:59.533] 
+[2020-10-27 23:39:59.533] [Sender] - send_freq = 1931
+[2020-10-27 23:39:59.533] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:39:59.635] 
+[2020-10-27 23:39:59.635] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:39:59.641] 
+[2020-10-27 23:40:00.142] 
+[2020-10-27 23:40:00.142] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:00.150] 
+[2020-10-27 23:40:00.530] 
+[2020-10-27 23:40:00.530] [Sender] - send_freq = 1913
+[2020-10-27 23:40:00.530] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:00.550] 
+[2020-10-27 23:40:00.550] [Sender] - send_freq = 916
+[2020-10-27 23:40:00.550] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:00.650] 
+[2020-10-27 23:40:00.650] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:00.657] 
+[2020-10-27 23:40:00.839] 
+[2020-10-27 23:40:00.839] [Sender] - send_freq = 1713
+[2020-10-27 23:40:00.839] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:01.158] 
+[2020-10-27 23:40:01.158] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:01.166] 
+[2020-10-27 23:40:01.307] 
+[2020-10-27 23:40:01.307] [Sender] - send_freq = 1165
+[2020-10-27 23:40:01.307] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:01.667] 
+[2020-10-27 23:40:01.667] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:01.674] 
+[2020-10-27 23:40:02.176] 
+[2020-10-27 23:40:02.176] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:02.183] 
+[2020-10-27 23:40:02.300] 
+[2020-10-27 23:40:02.300] [Sender] - send_freq = 1650
+[2020-10-27 23:40:02.300] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:02.357] 
+[2020-10-27 23:40:02.357] [Sender] - send_freq = 1199
+[2020-10-27 23:40:02.357] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:02.456] 
+[2020-10-27 23:40:02.456] [Sender] - send_freq = 790
+[2020-10-27 23:40:02.456] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:02.683] 
+[2020-10-27 23:40:02.683] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:02.690] 
+[2020-10-27 23:40:03.192] 
+[2020-10-27 23:40:03.192] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:03.199] 
+[2020-10-27 23:40:03.406] 
+[2020-10-27 23:40:03.406] [Sender] - send_freq = 723
+[2020-10-27 23:40:03.406] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:03.595] 
+[2020-10-27 23:40:03.595] [Sender] - send_freq = 1420
+[2020-10-27 23:40:03.595] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:03.699] 
+[2020-10-27 23:40:03.699] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:03.706] 
+[2020-10-27 23:40:04.207] 
+[2020-10-27 23:40:04.207] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:04.214] 
+[2020-10-27 23:40:04.716] 
+[2020-10-27 23:40:04.716] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:04.722] 
+[2020-10-27 23:40:04.900] 
+[2020-10-27 23:40:04.900] [Sender] - send_freq = 1201
+[2020-10-27 23:40:04.900] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:04.934] 
+[2020-10-27 23:40:04.934] [Sender] - send_freq = 1743
+[2020-10-27 23:40:04.934] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:04.973] 
+[2020-10-27 23:40:04.973] [Sender] - send_freq = 765
+[2020-10-27 23:40:04.973] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:05.224] 
+[2020-10-27 23:40:05.224] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:05.231] 
+[2020-10-27 23:40:05.721] 
+[2020-10-27 23:40:05.721] [Sender] - send_freq = 1006
+[2020-10-27 23:40:05.721] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:05.733] 
+[2020-10-27 23:40:05.733] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:05.739] 
+[2020-10-27 23:40:06.240] 
+[2020-10-27 23:40:06.240] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:06.247] 
+[2020-10-27 23:40:06.749] 
+[2020-10-27 23:40:06.749] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:06.754] 
+[2020-10-27 23:40:06.845] 
+[2020-10-27 23:40:06.845] [Sender] - send_freq = 1621
+[2020-10-27 23:40:06.845] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:07.257] 
+[2020-10-27 23:40:07.257] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:07.263] 
+[2020-10-27 23:40:07.351] 
+[2020-10-27 23:40:07.351] [Sender] - send_freq = 1619
+[2020-10-27 23:40:07.351] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:07.437] 
+[2020-10-27 23:40:07.437] [Sender] - send_freq = 1196
+[2020-10-27 23:40:07.437] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:07.764] 
+[2020-10-27 23:40:07.764] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:07.774] 
+[2020-10-27 23:40:07.839] 
+[2020-10-27 23:40:07.839] [Sender] - send_freq = 583
+[2020-10-27 23:40:07.839] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:08.272] 
+[2020-10-27 23:40:08.272] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:08.279] 
+[2020-10-27 23:40:08.509] 
+[2020-10-27 23:40:08.509] [Sender] - send_freq = 1760
+[2020-10-27 23:40:08.509] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:08.782] 
+[2020-10-27 23:40:08.782] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:08.788] 
+[2020-10-27 23:40:09.214] 
+[2020-10-27 23:40:09.214] [Sender] - send_freq = 1449
+[2020-10-27 23:40:09.214] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:09.289] 
+[2020-10-27 23:40:09.289] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:09.295] 
+[2020-10-27 23:40:09.329] 
+[2020-10-27 23:40:09.329] [Sender] - send_freq = 1056
+[2020-10-27 23:40:09.329] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:09.797] 
+[2020-10-27 23:40:09.797] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:09.804] 
+[2020-10-27 23:40:10.306] 
+[2020-10-27 23:40:10.306] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:10.311] 
+[2020-10-27 23:40:10.323] 
+[2020-10-27 23:40:10.323] [Sender] - send_freq = 526
+[2020-10-27 23:40:10.323] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:10.729] 
+[2020-10-27 23:40:10.729] [Sender] - send_freq = 1948
+[2020-10-27 23:40:10.729] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:10.813] 
+[2020-10-27 23:40:10.813] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:10.820] 
+[2020-10-27 23:40:11.162] 
+[2020-10-27 23:40:11.162] [Sender] - send_freq = 1873
+[2020-10-27 23:40:11.162] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:11.321] 
+[2020-10-27 23:40:11.321] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:11.328] 
+[2020-10-27 23:40:11.829] 
+[2020-10-27 23:40:11.829] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:11.837] 
+[2020-10-27 23:40:11.852] 
+[2020-10-27 23:40:11.852] [Sender] - send_freq = 1039
+[2020-10-27 23:40:11.852] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:12.262] 
+[2020-10-27 23:40:12.262] [Sender] - send_freq = 1957
+[2020-10-27 23:40:12.262] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:12.339] 
+[2020-10-27 23:40:12.339] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:12.345] 
+[2020-10-27 23:40:12.846] 
+[2020-10-27 23:40:12.846] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:12.852] 
+[2020-10-27 23:40:13.130] 
+[2020-10-27 23:40:13.130] [Sender] - send_freq = 1808
+[2020-10-27 23:40:13.130] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:13.295] 
+[2020-10-27 23:40:13.295] [Sender] - send_freq = 1466
+[2020-10-27 23:40:13.295] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:13.354] 
+[2020-10-27 23:40:13.354] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:13.361] 
+[2020-10-27 23:40:13.862] 
+[2020-10-27 23:40:13.862] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:13.868] 
+[2020-10-27 23:40:13.938] 
+[2020-10-27 23:40:13.938] [Sender] - send_freq = 1600
+[2020-10-27 23:40:13.938] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:14.370] 
+[2020-10-27 23:40:14.370] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:14.376] 
+[2020-10-27 23:40:14.491] 
+[2020-10-27 23:40:14.491] [Sender] - send_freq = 1645
+[2020-10-27 23:40:14.491] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:14.707] 
+[2020-10-27 23:40:14.707] [Sender] - send_freq = 1353
+[2020-10-27 23:40:14.707] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:14.819] 
+[2020-10-27 23:40:14.819] [Sender] - send_freq = 957
+[2020-10-27 23:40:14.819] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:14.878] 
+[2020-10-27 23:40:14.878] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:14.885] 
+[2020-10-27 23:40:15.386] 
+[2020-10-27 23:40:15.386] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:15.393] 
+[2020-10-27 23:40:15.475] 
+[2020-10-27 23:40:15.475] [Sender] - send_freq = 1105
+[2020-10-27 23:40:15.475] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:15.895] 
+[2020-10-27 23:40:15.895] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:15.902] 
+[2020-10-27 23:40:16.118] 
+[2020-10-27 23:40:16.118] [Sender] - send_freq = 732
+[2020-10-27 23:40:16.118] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:16.403] 
+[2020-10-27 23:40:16.403] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:16.410] 
+[2020-10-27 23:40:16.814] 
+[2020-10-27 23:40:16.814] [Sender] - send_freq = 1937
+[2020-10-27 23:40:16.814] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:16.911] 
+[2020-10-27 23:40:16.911] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:16.917] 
+[2020-10-27 23:40:17.419] 
+[2020-10-27 23:40:17.419] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:17.426] 
+[2020-10-27 23:40:17.472] 
+[2020-10-27 23:40:17.472] [Sender] - send_freq = 1577
+[2020-10-27 23:40:17.472] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:17.927] 
+[2020-10-27 23:40:17.927] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:17.934] 
+[2020-10-27 23:40:18.052] 
+[2020-10-27 23:40:18.052] [Sender] - send_freq = 1141
+[2020-10-27 23:40:18.052] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:18.146] 
+[2020-10-27 23:40:18.146] [Sender] - send_freq = 1744
+[2020-10-27 23:40:18.146] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:18.435] 
+[2020-10-27 23:40:18.435] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:18.442] 
+[2020-10-27 23:40:18.638] 
+[2020-10-27 23:40:18.638] [Sender] - send_freq = 711
+[2020-10-27 23:40:18.638] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:18.943] 
+[2020-10-27 23:40:18.943] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:18.950] 
+[2020-10-27 23:40:19.175] 
+[2020-10-27 23:40:19.175] [Sender] - send_freq = 1756
+[2020-10-27 23:40:19.175] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:19.452] 
+[2020-10-27 23:40:19.452] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:19.459] 
+[2020-10-27 23:40:19.915] 
+[2020-10-27 23:40:19.915] [Sender] - send_freq = 1480
+[2020-10-27 23:40:19.915] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:19.959] 
+[2020-10-27 23:40:19.959] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:19.967] 
+[2020-10-27 23:40:20.468] 
+[2020-10-27 23:40:20.468] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:20.474] 
+[2020-10-27 23:40:20.834] 
+[2020-10-27 23:40:20.834] [Sender] - send_freq = 1891
+[2020-10-27 23:40:20.834] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:20.911] 
+[2020-10-27 23:40:20.911] [Sender] - send_freq = 951
+[2020-10-27 23:40:20.911] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:20.976] 
+[2020-10-27 23:40:20.976] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:20.982] 
+[2020-10-27 23:40:21.316] 
+[2020-10-27 23:40:21.316] [Sender] - send_freq = 1864
+[2020-10-27 23:40:21.316] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:21.484] 
+[2020-10-27 23:40:21.484] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:21.490] 
+[2020-10-27 23:40:21.992] 
+[2020-10-27 23:40:21.992] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:21.999] 
+[2020-10-27 23:40:22.198] 
+[2020-10-27 23:40:22.198] [Sender] - send_freq = 1222
+[2020-10-27 23:40:22.198] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:22.342] 
+[2020-10-27 23:40:22.342] [Sender] - send_freq = 1874
+[2020-10-27 23:40:22.342] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:22.501] 
+[2020-10-27 23:40:22.501] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:22.508] 
+[2020-10-27 23:40:22.634] 
+[2020-10-27 23:40:22.634] [Sender] - send_freq = 1150
+[2020-10-27 23:40:22.634] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:23.009] 
+[2020-10-27 23:40:23.009] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:23.015] 
+[2020-10-27 23:40:23.283] 
+[2020-10-27 23:40:23.283] [Sender] - send_freq = 1292
+[2020-10-27 23:40:23.283] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:23.517] 
+[2020-10-27 23:40:23.517] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:23.523] 
+[2020-10-27 23:40:24.025] 
+[2020-10-27 23:40:24.025] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:24.032] 
+[2020-10-27 23:40:24.217] 
+[2020-10-27 23:40:24.217] [Sender] - send_freq = 1717
+[2020-10-27 23:40:24.217] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:24.279] 
+[2020-10-27 23:40:24.279] [Sender] - send_freq = 1271
+[2020-10-27 23:40:24.279] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:24.533] 
+[2020-10-27 23:40:24.533] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:24.539] 
+[2020-10-27 23:40:24.685] 
+[2020-10-27 23:40:24.685] [Sender] - send_freq = 1168
+[2020-10-27 23:40:24.685] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:24.925] 
+[2020-10-27 23:40:24.925] [Sender] - send_freq = 900
+[2020-10-27 23:40:24.925] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:25.040] 
+[2020-10-27 23:40:25.040] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:25.047] 
+[2020-10-27 23:40:25.549] 
+[2020-10-27 23:40:25.549] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:25.555] 
+[2020-10-27 23:40:26.057] 
+[2020-10-27 23:40:26.057] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:26.064] 
+[2020-10-27 23:40:26.489] 
+[2020-10-27 23:40:26.489] [Sender] - send_freq = 1956
+[2020-10-27 23:40:26.489] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:26.565] 
+[2020-10-27 23:40:26.565] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:26.572] 
+[2020-10-27 23:40:26.764] 
+[2020-10-27 23:40:26.764] [Sender] - send_freq = 1724
+[2020-10-27 23:40:26.764] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:26.912] 
+[2020-10-27 23:40:26.912] [Sender] - send_freq = 1363
+[2020-10-27 23:40:26.912] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:27.074] 
+[2020-10-27 23:40:27.074] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:27.080] 
+[2020-10-27 23:40:27.389] 
+[2020-10-27 23:40:27.389] [Sender] - send_freq = 1332
+[2020-10-27 23:40:27.389] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:27.581] 
+[2020-10-27 23:40:27.581] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:27.587] 
+[2020-10-27 23:40:28.090] 
+[2020-10-27 23:40:28.090] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:28.097] 
+[2020-10-27 23:40:28.136] 
+[2020-10-27 23:40:28.136] [Sender] - send_freq = 1063
+[2020-10-27 23:40:28.136] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:28.349] 
+[2020-10-27 23:40:28.349] [Sender] - send_freq = 768
+[2020-10-27 23:40:28.349] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:28.500] 
+[2020-10-27 23:40:28.500] [Sender] - send_freq = 1935
+[2020-10-27 23:40:28.500] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:28.597] 
+[2020-10-27 23:40:28.597] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:28.603] 
+[2020-10-27 23:40:29.105] 
+[2020-10-27 23:40:29.105] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:29.113] 
+[2020-10-27 23:40:29.326] 
+[2020-10-27 23:40:29.326] [Sender] - send_freq = 728
+[2020-10-27 23:40:29.326] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:29.614] 
+[2020-10-27 23:40:29.614] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:29.621] 
+[2020-10-27 23:40:29.695] 
+[2020-10-27 23:40:29.695] [Sender] - send_freq = 1606
+[2020-10-27 23:40:29.695] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:30.123] 
+[2020-10-27 23:40:30.123] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:30.129] 
+[2020-10-27 23:40:30.599] 
+[2020-10-27 23:40:30.599] [Sender] - send_freq = 984
+[2020-10-27 23:40:30.599] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:30.631] 
+[2020-10-27 23:40:30.631] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:30.637] 
+[2020-10-27 23:40:30.942] 
+[2020-10-27 23:40:30.942] [Sender] - send_freq = 1836
+[2020-10-27 23:40:30.942] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:31.139] 
+[2020-10-27 23:40:31.139] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:31.144] 
+[2020-10-27 23:40:31.446] 
+[2020-10-27 23:40:31.446] [Sender] - send_freq = 816
+[2020-10-27 23:40:31.446] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:31.647] 
+[2020-10-27 23:40:31.647] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:31.653] 
+[2020-10-27 23:40:31.925] 
+[2020-10-27 23:40:31.925] [Sender] - send_freq = 787
+[2020-10-27 23:40:31.925] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:31.954] 
+[2020-10-27 23:40:31.954] [Sender] - send_freq = 1832
+[2020-10-27 23:40:31.954] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:32.154] 
+[2020-10-27 23:40:32.154] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:32.160] 
+[2020-10-27 23:40:32.662] 
+[2020-10-27 23:40:32.662] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:32.670] 
+[2020-10-27 23:40:32.712] 
+[2020-10-27 23:40:32.712] [Sender] - send_freq = 558
+[2020-10-27 23:40:32.712] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:33.172] 
+[2020-10-27 23:40:33.172] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:33.178] 
+[2020-10-27 23:40:33.350] 
+[2020-10-27 23:40:33.350] [Sender] - send_freq = 1704
+[2020-10-27 23:40:33.350] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:33.679] 
+[2020-10-27 23:40:33.679] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:33.686] 
+[2020-10-27 23:40:33.701] 
+[2020-10-27 23:40:33.701] [Sender] - send_freq = 529
+[2020-10-27 23:40:33.701] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:33.954] 
+[2020-10-27 23:40:33.954] [Sender] - send_freq = 1291
+[2020-10-27 23:40:33.954] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:34.187] 
+[2020-10-27 23:40:34.187] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:34.193] 
+[2020-10-27 23:40:34.695] 
+[2020-10-27 23:40:34.695] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:34.702] 
+[2020-10-27 23:40:34.713] 
+[2020-10-27 23:40:34.713] [Sender] - send_freq = 1034
+[2020-10-27 23:40:34.713] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:34.909] 
+[2020-10-27 23:40:34.909] [Sender] - send_freq = 722
+[2020-10-27 23:40:34.909] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:35.203] 
+[2020-10-27 23:40:35.203] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:35.209] 
+[2020-10-27 23:40:35.712] 
+[2020-10-27 23:40:35.712] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:35.718] 
+[2020-10-27 23:40:35.789] 
+[2020-10-27 23:40:35.789] [Sender] - send_freq = 585
+[2020-10-27 23:40:35.789] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:36.219] 
+[2020-10-27 23:40:36.219] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:36.226] 
+[2020-10-27 23:40:36.439] 
+[2020-10-27 23:40:36.439] [Sender] - send_freq = 1744
+[2020-10-27 23:40:36.439] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:36.727] 
+[2020-10-27 23:40:36.727] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:36.733] 
+[2020-10-27 23:40:36.927] 
+[2020-10-27 23:40:36.927] [Sender] - send_freq = 1216
+[2020-10-27 23:40:36.927] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:37.237] 
+[2020-10-27 23:40:37.237] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:37.242] 
+[2020-10-27 23:40:37.378] 
+[2020-10-27 23:40:37.378] [Sender] - send_freq = 1159
+[2020-10-27 23:40:37.378] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:37.464] 
+[2020-10-27 23:40:37.464] [Sender] - send_freq = 737
+[2020-10-27 23:40:37.464] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:37.744] 
+[2020-10-27 23:40:37.744] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:37.750] 
+[2020-10-27 23:40:38.252] 
+[2020-10-27 23:40:38.252] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:38.259] 
+[2020-10-27 23:40:38.420] 
+[2020-10-27 23:40:38.420] [Sender] - send_freq = 1185
+[2020-10-27 23:40:38.420] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:38.760] 
+[2020-10-27 23:40:38.760] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:38.769] 
+[2020-10-27 23:40:39.268] 
+[2020-10-27 23:40:39.268] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:39.274] 
+[2020-10-27 23:40:39.289] 
+[2020-10-27 23:40:39.289] [Sender] - send_freq = 1545
+[2020-10-27 23:40:39.289] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:39.360] 
+[2020-10-27 23:40:39.360] [Sender] - send_freq = 1108
+[2020-10-27 23:40:39.360] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:39.776] 
+[2020-10-27 23:40:39.776] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:39.783] 
+[2020-10-27 23:40:40.000] 
+[2020-10-27 23:40:40.000] [Sender] - send_freq = 733
+[2020-10-27 23:40:40.000] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:40.284] 
+[2020-10-27 23:40:40.284] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:40.292] 
+[2020-10-27 23:40:40.676] 
+[2020-10-27 23:40:40.676] [Sender] - send_freq = 1916
+[2020-10-27 23:40:40.676] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:40.793] 
+[2020-10-27 23:40:40.793] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:40.799] 
+[2020-10-27 23:40:41.173] 
+[2020-10-27 23:40:41.173] [Sender] - send_freq = 1397
+[2020-10-27 23:40:41.173] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:41.300] 
+[2020-10-27 23:40:41.300] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:41.307] 
+[2020-10-27 23:40:41.687] 
+[2020-10-27 23:40:41.687] [Sender] - send_freq = 1403
+[2020-10-27 23:40:41.687] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:41.809] 
+[2020-10-27 23:40:41.809] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:41.815] 
+[2020-10-27 23:40:42.300] 
+[2020-10-27 23:40:42.300] [Sender] - send_freq = 1508
+[2020-10-27 23:40:42.300] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:42.317] 
+[2020-10-27 23:40:42.317] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:42.323] 
+[2020-10-27 23:40:42.391] 
+[2020-10-27 23:40:42.391] [Sender] - send_freq = 1091
+[2020-10-27 23:40:42.392] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:42.824] 
+[2020-10-27 23:40:42.824] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:42.831] 
+[2020-10-27 23:40:43.211] 
+[2020-10-27 23:40:43.211] [Sender] - send_freq = 895
+[2020-10-27 23:40:43.211] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:43.278] 
+[2020-10-27 23:40:43.278] [Sender] - send_freq = 1469
+[2020-10-27 23:40:43.278] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:43.332] 
+[2020-10-27 23:40:43.332] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:43.339] 
+[2020-10-27 23:40:43.841] 
+[2020-10-27 23:40:43.841] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:43.849] 
+[2020-10-27 23:40:44.350] 
+[2020-10-27 23:40:44.350] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:44.356] 
+[2020-10-27 23:40:44.450] 
+[2020-10-27 23:40:44.450] [Sender] - send_freq = 1117
+[2020-10-27 23:40:44.450] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:44.609] 
+[2020-10-27 23:40:44.609] [Sender] - send_freq = 1784
+[2020-10-27 23:40:44.609] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:44.857] 
+[2020-10-27 23:40:44.857] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:44.863] 
+[2020-10-27 23:40:44.957] 
+[2020-10-27 23:40:44.957] [Sender] - send_freq = 607
+[2020-10-27 23:40:44.957] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:45.365] 
+[2020-10-27 23:40:45.365] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:45.372] 
+[2020-10-27 23:40:45.809] 
+[2020-10-27 23:40:45.809] [Sender] - send_freq = 1968
+[2020-10-27 23:40:45.809] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:45.873] 
+[2020-10-27 23:40:45.873] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:45.879] 
+[2020-10-27 23:40:46.382] 
+[2020-10-27 23:40:46.382] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:46.389] 
+[2020-10-27 23:40:46.444] 
+[2020-10-27 23:40:46.444] [Sender] - send_freq = 1587
+[2020-10-27 23:40:46.444] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:46.696] 
+[2020-10-27 23:40:46.696] [Sender] - send_freq = 822
+[2020-10-27 23:40:46.696] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:46.889] 
+[2020-10-27 23:40:46.889] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:46.896] 
+[2020-10-27 23:40:47.325] 
+[2020-10-27 23:40:47.325] [Sender] - send_freq = 1959
+[2020-10-27 23:40:47.325] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:47.399] 
+[2020-10-27 23:40:47.399] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:47.405] 
+[2020-10-27 23:40:47.757] 
+[2020-10-27 23:40:47.757] [Sender] - send_freq = 868
+[2020-10-27 23:40:47.757] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:47.831] 
+[2020-10-27 23:40:47.831] [Sender] - send_freq = 1449
+[2020-10-27 23:40:47.831] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:47.907] 
+[2020-10-27 23:40:47.907] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:47.913] 
+[2020-10-27 23:40:48.037] 
+[2020-10-27 23:40:48.037] [Sender] - send_freq = 639
+[2020-10-27 23:40:48.037] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:48.414] 
+[2020-10-27 23:40:48.414] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:48.421] 
+[2020-10-27 23:40:48.597] 
+[2020-10-27 23:40:48.597] [Sender] - send_freq = 691
+[2020-10-27 23:40:48.597] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:48.922] 
+[2020-10-27 23:40:48.922] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:48.929] 
+[2020-10-27 23:40:49.431] 
+[2020-10-27 23:40:49.431] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:49.437] 
+[2020-10-27 23:40:49.775] 
+[2020-10-27 23:40:49.775] [Sender] - send_freq = 853
+[2020-10-27 23:40:49.775] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:49.938] 
+[2020-10-27 23:40:49.938] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:49.945] 
+[2020-10-27 23:40:50.111] 
+[2020-10-27 23:40:50.111] [Sender] - send_freq = 681
+[2020-10-27 23:40:50.111] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:50.142] 
+[2020-10-27 23:40:50.142] [Sender] - send_freq = 1728
+[2020-10-27 23:40:50.142] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:50.447] 
+[2020-10-27 23:40:50.447] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:50.455] 
+[2020-10-27 23:40:50.955] 
+[2020-10-27 23:40:50.955] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.
+[2020-10-27 23:40:50.960] [Sender] - send_freq = 514
+[2020-10-27 23:40:50.963] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:51.297] 
+[2020-10-27 23:40:51.297] [Sender] - send_freq = 1359
+[2020-10-27 23:40:51.297] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:51.471] 
+[2020-10-27 23:40:51.471] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:51.478] 
+[2020-10-27 23:40:51.980] 
+[2020-10-27 23:40:51.980] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:51.985] 
+[2020-10-27 23:40:52.155] 
+[2020-10-27 23:40:52.155] [Sender] - send_freq = 1200
+[2020-10-27 23:40:52.155] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:52.322] 
+[2020-10-27 23:40:52.322] [Sender] - send_freq = 851
+[2020-10-27 23:40:52.322] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:52.487] 
+[2020-10-27 23:40:52.487] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:52.494] 
+[2020-10-27 23:40:52.995] 
+[2020-10-27 23:40:52.995] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:53.001] 
+[2020-10-27 23:40:53.478] 
+[2020-10-27 23:40:53.478] [Sender] - send_freq = 1499
+[2020-10-27 23:40:53.478] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:53.502] 
+[2020-10-27 23:40:53.502] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:53.510] 
+[2020-10-27 23:40:54.011] 
+[2020-10-27 23:40:54.011] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:54.018] 
+[2020-10-27 23:40:54.033] 
+[2020-10-27 23:40:54.033] [Sender] - send_freq = 530
+[2020-10-27 23:40:54.033] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:54.083] 
+[2020-10-27 23:40:54.083] [Sender] - send_freq = 1088
+[2020-10-27 23:40:54.083] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:54.420] 
+[2020-10-27 23:40:54.420] [Sender] - send_freq = 1933
+[2020-10-27 23:40:54.420] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:54.520] 
+[2020-10-27 23:40:54.520] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:54.526] 
+[2020-10-27 23:40:55.028] 
+[2020-10-27 23:40:55.028] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:55.035] 
+[2020-10-27 23:40:55.079] 
+[2020-10-27 23:40:55.079] [Sender] - send_freq = 1068
+[2020-10-27 23:40:55.079] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:55.536] 
+[2020-10-27 23:40:55.536] [Sender] - send_freq = 1016
+[2020-10-27 23:40:55.536] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:40:55.541] 
+[2020-10-27 23:40:55.541] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:55.550] 
+[2020-10-27 23:40:55.769] 
+[2020-10-27 23:40:55.769] [Sender] - send_freq = 741
+[2020-10-27 23:40:55.769] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:40:56.052] 
+[2020-10-27 23:40:56.052] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:40:56.058] 
+[2020-10-27 23:40:56.560] 
+[2020-10-27 23:40:56.560] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:40:56.567] 
+[2020-10-27 23:40:57.068] 
+[2020-10-27 23:40:57.068] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:57.075] 
+[2020-10-27 23:40:57.254] 
+[2020-10-27 23:40:57.254] [Sender] - send_freq = 1710
+[2020-10-27 23:40:57.254] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:40:57.499] 
+[2020-10-27 23:40:57.499] [Sender] - send_freq = 1447
+[2020-10-27 23:40:57.499] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:40:57.578] 
+[2020-10-27 23:40:57.578] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:40:57.584] 
+[2020-10-27 23:40:57.753] 
+[2020-10-27 23:40:57.753] [Sender] - send_freq = 685
+[2020-10-27 23:40:57.753] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:40:58.085] 
+[2020-10-27 23:40:58.085] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:40:58.091] 
+[2020-10-27 23:40:58.512] 
+[2020-10-27 23:40:58.512] [Sender] - send_freq = 1952
+[2020-10-27 23:40:58.512] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:40:58.593] 
+[2020-10-27 23:40:58.593] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:40:58.600] 
+[2020-10-27 23:40:59.101] 
+[2020-10-27 23:40:59.101] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:40:59.107] 
+[2020-10-27 23:40:59.180] 
+[2020-10-27 23:40:59.180] [Sender] - send_freq = 1603
+[2020-10-27 23:40:59.180] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:40:59.609] 
+[2020-10-27 23:40:59.609] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:40:59.616] 
+[2020-10-27 23:40:59.768] 
+[2020-10-27 23:40:59.768] [Sender] - send_freq = 667
+[2020-10-27 23:40:59.768] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:00.034] 
+[2020-10-27 23:41:00.034] [Sender] - send_freq = 1949
+[2020-10-27 23:41:00.034] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:00.118] 
+[2020-10-27 23:41:00.118] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:00.124] 
+[2020-10-27 23:41:00.551] 
+[2020-10-27 23:41:00.551] [Sender] - send_freq = 1958
+[2020-10-27 23:41:00.551] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:00.625] 
+[2020-10-27 23:41:00.625] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:00.632] 
+[2020-10-27 23:41:00.852] 
+[2020-10-27 23:41:00.852] [Sender] - send_freq = 734
+[2020-10-27 23:41:00.852] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:00.861] 
+[2020-10-27 23:41:00.861] [Sender] - send_freq = 1253
+[2020-10-27 23:41:00.861] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:01.134] 
+[2020-10-27 23:41:01.134] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:01.141] 
+[2020-10-27 23:41:01.394] 
+[2020-10-27 23:41:01.394] [Sender] - send_freq = 768
+[2020-10-27 23:41:01.394] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:01.642] 
+[2020-10-27 23:41:01.642] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:01.648] 
+[2020-10-27 23:41:01.957] 
+[2020-10-27 23:41:01.957] [Sender] - send_freq = 823
+[2020-10-27 23:41:01.957] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:02.150] 
+[2020-10-27 23:41:02.150] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:02.157] 
+[2020-10-27 23:41:02.658] 
+[2020-10-27 23:41:02.658] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:02.666] 
+[2020-10-27 23:41:03.166] 
+[2020-10-27 23:41:03.166] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:03.172] 
+[2020-10-27 23:41:03.300] 
+[2020-10-27 23:41:03.300] [Sender] - send_freq = 642
+[2020-10-27 23:41:03.300] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:03.309] 
+[2020-10-27 23:41:03.309] [Sender] - send_freq = 1667
+[2020-10-27 23:41:03.309] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:03.675] 
+[2020-10-27 23:41:03.675] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:03.682] 
+[2020-10-27 23:41:04.059] 
+[2020-10-27 23:41:04.059] [Sender] - send_freq = 1909
+[2020-10-27 23:41:04.059] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:04.183] 
+[2020-10-27 23:41:04.183] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:04.190] 
+[2020-10-27 23:41:04.249] 
+[2020-10-27 23:41:04.250] [Sender] - send_freq = 1084
+[2020-10-27 23:41:04.250] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:04.691] 
+[2020-10-27 23:41:04.691] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:04.697] 
+[2020-10-27 23:41:04.795] 
+[2020-10-27 23:41:04.795] [Sender] - send_freq = 1119
+[2020-10-27 23:41:04.795] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:05.199] 
+[2020-10-27 23:41:05.199] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Ve
+[2020-10-27 23:41:05.201] [Sender] - send_freq = 513
+[2020-10-27 23:41:05.204] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:05.210] ta
+[2020-10-27 23:41:05.715] 
+[2020-10-27 23:41:05.715] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:05.721] 
+[2020-10-27 23:41:06.126] 
+[2020-10-27 23:41:06.126] [Sender] - send_freq = 1943
+[2020-10-27 23:41:06.126] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:06.222] 
+[2020-10-27 23:41:06.223] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:06.230] 
+[2020-10-27 23:41:06.726] 
+[2020-10-27 23:41:06.726] [Sender] - send_freq = 1527
+[2020-10-27 23:41:06.726] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:06.731] 
+[2020-10-27 23:41:06.731] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:06.739] 
+[2020-10-27 23:41:06.916] 
+[2020-10-27 23:41:06.916] [Sender] - send_freq = 1202
+[2020-10-27 23:41:06.916] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:07.121] 
+[2020-10-27 23:41:07.121] [Sender] - send_freq = 898
+[2020-10-27 23:41:07.121] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:07.242] 
+[2020-10-27 23:41:07.242] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:07.249] 
+[2020-10-27 23:41:07.659] 
+[2020-10-27 23:41:07.659] [Sender] - send_freq = 926
+[2020-10-27 23:41:07.659] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:07.751] 
+[2020-10-27 23:41:07.751] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:07.757] 
+[2020-10-27 23:41:08.259] 
+[2020-10-27 23:41:08.259] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:08.265] 
+[2020-10-27 23:41:08.286] 
+[2020-10-27 23:41:08.286] [Sender] - send_freq = 1044
+[2020-10-27 23:41:08.286] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:08.767] 
+[2020-10-27 23:41:08.767] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:08.773] 
+[2020-10-27 23:41:09.027] 
+[2020-10-27 23:41:09.027] [Sender] - send_freq = 768
+[2020-10-27 23:41:09.027] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:09.055] 
+[2020-10-27 23:41:09.055] [Sender] - send_freq = 1305
+[2020-10-27 23:41:09.055] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:09.275] 
+[2020-10-27 23:41:09.275] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:09.281] 
+[2020-10-27 23:41:09.783] 
+[2020-10-27 23:41:09.783] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:09.789] 
+[2020-10-27 23:41:09.835] 
+[2020-10-27 23:41:09.835] [Sender] - send_freq = 1067
+[2020-10-27 23:41:09.835] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:10.033] 
+[2020-10-27 23:41:10.033] [Sender] - send_freq = 758
+[2020-10-27 23:41:10.033] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:10.290] 
+[2020-10-27 23:41:10.290] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:10.297] 
+[2020-10-27 23:41:10.798] 
+[2020-10-27 23:41:10.798] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:10.805] 
+[2020-10-27 23:41:11.308] 
+[2020-10-27 23:41:11.308] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:11.315] 
+[2020-10-27 23:41:11.446] 
+[2020-10-27 23:41:11.446] [Sender] - send_freq = 1664
+[2020-10-27 23:41:11.446] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:11.815] 
+[2020-10-27 23:41:11.815] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:11.822] 
+[2020-10-27 23:41:11.930] 
+[2020-10-27 23:41:11.930] [Sender] - send_freq = 1639
+[2020-10-27 23:41:11.930] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:12.108] 
+[2020-10-27 23:41:12.108] [Sender] - send_freq = 1310
+[2020-10-27 23:41:12.108] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:12.324] 
+[2020-10-27 23:41:12.324] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:12.330] 
+[2020-10-27 23:41:12.474] 
+[2020-10-27 23:41:12.474] [Sender] - send_freq = 1167
+[2020-10-27 23:41:12.474] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:12.831] 
+[2020-10-27 23:41:12.831] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:12.838] 
+[2020-10-27 23:41:12.932] 
+[2020-10-27 23:41:12.932] [Sender] - send_freq = 609
+[2020-10-27 23:41:12.932] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:12.958] 
+[2020-10-27 23:41:12.958] [Sender] - send_freq = 1144
+[2020-10-27 23:41:12.958] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:13.339] 
+[2020-10-27 23:41:13.339] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:13.345] 
+[2020-10-27 23:41:13.847] 
+[2020-10-27 23:41:13.847] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:13.854] 
+[2020-10-27 23:41:14.063] 
+[2020-10-27 23:41:14.063] [Sender] - send_freq = 1232
+[2020-10-27 23:41:14.063] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:14.355] 
+[2020-10-27 23:41:14.355] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:14.362] 
+[2020-10-27 23:41:14.864] 
+[2020-10-27 23:41:14.864] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:14.871] 
+[2020-10-27 23:41:15.246] 
+[2020-10-27 23:41:15.246] [Sender] - send_freq = 1907
+[2020-10-27 23:41:15.246] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:15.275] 
+[2020-10-27 23:41:15.275] [Sender] - send_freq = 1428
+[2020-10-27 23:41:15.275] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:15.372] 
+[2020-10-27 23:41:15.372] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:15.379] 
+[2020-10-27 23:41:15.880] 
+[2020-10-27 23:41:15.880] [Sender] - send_freq = 1525
+[2020-10-27 23:41:15.880] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:15.886] 
+[2020-10-27 23:41:15.886] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:15.894] 
+[2020-10-27 23:41:16.330] 
+[2020-10-27 23:41:16.330] [Sender] - send_freq = 1465
+[2020-10-27 23:41:16.330] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:16.396] 
+[2020-10-27 23:41:16.396] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:16.403] 
+[2020-10-27 23:41:16.640] 
+[2020-10-27 23:41:16.640] [Sender] - send_freq = 1268
+[2020-10-27 23:41:16.640] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:16.904] 
+[2020-10-27 23:41:16.904] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:16.910] 
+[2020-10-27 23:41:17.273] 
+[2020-10-27 23:41:17.273] [Sender] - send_freq = 877
+[2020-10-27 23:41:17.273] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:17.412] 
+[2020-10-27 23:41:17.412] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:17.418] 
+[2020-10-27 23:41:17.465] 
+[2020-10-27 23:41:17.465] [Sender] - send_freq = 1576
+[2020-10-27 23:41:17.465] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:17.920] 
+[2020-10-27 23:41:17.920] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:17.927] 
+[2020-10-27 23:41:18.429] 
+[2020-10-27 23:41:18.429] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:18.436] 
+[2020-10-27 23:41:18.737] 
+[2020-10-27 23:41:18.737] [Sender] - send_freq = 1833
+[2020-10-27 23:41:18.737] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:18.861] 
+[2020-10-27 23:41:18.861] [Sender] - send_freq = 1449
+[2020-10-27 23:41:18.861] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:18.937] 
+[2020-10-27 23:41:18.937] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:18.944] 
+[2020-10-27 23:41:19.031] 
+[2020-10-27 23:41:19.031] [Sender] - send_freq = 1111
+[2020-10-27 23:41:19.031] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:19.128] 
+[2020-10-27 23:41:19.128] [Sender] - send_freq = 699
+[2020-10-27 23:41:19.128] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:19.445] 
+[2020-10-27 23:41:19.445] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:19.452] 
+[2020-10-27 23:41:19.605] 
+[2020-10-27 23:41:19.605] [Sender] - send_freq = 668
+[2020-10-27 23:41:19.605] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:19.953] 
+[2020-10-27 23:41:19.953] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:19.960] 
+[2020-10-27 23:41:20.461] 
+[2020-10-27 23:41:20.461] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:20.468] 
+[2020-10-27 23:41:20.700] 
+[2020-10-27 23:41:20.700] [Sender] - send_freq = 748
+[2020-10-27 23:41:20.700] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:20.724] 
+[2020-10-27 23:41:20.724] [Sender] - send_freq = 1279
+[2020-10-27 23:41:20.724] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:20.969] 
+[2020-10-27 23:41:20.969] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:20.975] 
+[2020-10-27 23:41:21.424] 
+[2020-10-27 23:41:21.424] [Sender] - send_freq = 963
+[2020-10-27 23:41:21.424] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:21.477] 
+[2020-10-27 23:41:21.477] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:21.484] 
+[2020-10-27 23:41:21.707] 
+[2020-10-27 23:41:21.707] [Sender] - send_freq = 738
+[2020-10-27 23:41:21.707] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:21.986] 
+[2020-10-27 23:41:21.986] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:21.993] 
+[2020-10-27 23:41:22.169] 
+[2020-10-27 23:41:22.169] [Sender] - send_freq = 692
+[2020-10-27 23:41:22.169] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:22.493] 
+[2020-10-27 23:41:22.493] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:22.501] 
+[2020-10-27 23:41:23.002] 
+[2020-10-27 23:41:23.002] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:23.009] 
+[2020-10-27 23:41:23.510] 
+[2020-10-27 23:41:23.510] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:23.516] 
+[2020-10-27 23:41:23.593] 
+[2020-10-27 23:41:23.593] [Sender] - send_freq = 1607
+[2020-10-27 23:41:23.593] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:23.620] 
+[2020-10-27 23:41:23.620] [Sender] - send_freq = 618
+[2020-10-27 23:41:23.620] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:24.018] 
+[2020-10-27 23:41:24.018] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:24.024] 
+[2020-10-27 23:41:24.242] 
+[2020-10-27 23:41:24.242] [Sender] - send_freq = 1748
+[2020-10-27 23:41:24.242] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:24.526] 
+[2020-10-27 23:41:24.526] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:24.532] 
+[2020-10-27 23:41:24.906] 
+[2020-10-27 23:41:24.906] [Sender] - send_freq = 1396
+[2020-10-27 23:41:24.906] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:25.033] 
+[2020-10-27 23:41:25.033] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:25.041] 
+[2020-10-27 23:41:25.248] 
+[2020-10-27 23:41:25.248] [Sender] - send_freq = 1230
+[2020-10-27 23:41:25.248] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:25.523] 
+[2020-10-27 23:41:25.523] [Sender] - send_freq = 998
+[2020-10-27 23:41:25.523] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:25.542] 
+[2020-10-27 23:41:25.542] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:25.549] 
+[2020-10-27 23:41:26.050] 
+[2020-10-27 23:41:26.050] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:26.057] 
+[2020-10-27 23:41:26.227] 
+[2020-10-27 23:41:26.227] [Sender] - send_freq = 1193
+[2020-10-27 23:41:26.227] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:26.559] 
+[2020-10-27 23:41:26.559] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:26.566] 
+[2020-10-27 23:41:27.067] 
+[2020-10-27 23:41:27.067] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:27.074] 
+[2020-10-27 23:41:27.323] 
+[2020-10-27 23:41:27.323] [Sender] - send_freq = 1781
+[2020-10-27 23:41:27.323] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:27.574] 
+[2020-10-27 23:41:27.574] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:27.581] 
+[2020-10-27 23:41:27.695] 
+[2020-10-27 23:41:27.695] [Sender] - send_freq = 1644
+[2020-10-27 23:41:27.695] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:27.847] 
+[2020-10-27 23:41:27.847] [Sender] - send_freq = 1289
+[2020-10-27 23:41:27.847] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:28.083] 
+[2020-10-27 23:41:28.083] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:28.088] 
+[2020-10-27 23:41:28.513] 
+[2020-10-27 23:41:28.513] [Sender] - send_freq = 1447
+[2020-10-27 23:41:28.513] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:28.591] 
+[2020-10-27 23:41:28.591] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:28.598] 
+[2020-10-27 23:41:28.629] 
+[2020-10-27 23:41:28.629] [Sender] - send_freq = 1055
+[2020-10-27 23:41:28.629] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:29.100] 
+[2020-10-27 23:41:29.100] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:29.106] 
+[2020-10-27 23:41:29.607] 
+[2020-10-27 23:41:29.608] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:29.615] 
+[2020-10-27 23:41:29.722] 
+[2020-10-27 23:41:29.722] [Sender] - send_freq = 1639
+[2020-10-27 23:41:29.722] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:29.919] 
+[2020-10-27 23:41:29.919] [Sender] - send_freq = 1329
+[2020-10-27 23:41:29.919] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:30.116] 
+[2020-10-27 23:41:30.116] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:30.122] 
+[2020-10-27 23:41:30.187] 
+[2020-10-27 23:41:30.187] [Sender] - send_freq = 580
+[2020-10-27 23:41:30.187] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:30.349] 
+[2020-10-27 23:41:30.349] [Sender] - send_freq = 1249
+[2020-10-27 23:41:30.349] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:30.623] 
+[2020-10-27 23:41:30.624] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:30.630] 
+[2020-10-27 23:41:31.132] 
+[2020-10-27 23:41:31.132] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:31.138] 
+[2020-10-27 23:41:31.639] 
+[2020-10-27 23:41:31.639] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:31.646] 
+[2020-10-27 23:41:31.852] 
+[2020-10-27 23:41:31.852] [Sender] - send_freq = 1737
+[2020-10-27 23:41:31.852] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:31.905] 
+[2020-10-27 23:41:31.905] [Sender] - send_freq = 773
+[2020-10-27 23:41:31.905] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:32.041] 
+[2020-10-27 23:41:32.041] [Sender] - send_freq = 1418
+[2020-10-27 23:41:32.041] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:32.148] 
+[2020-10-27 23:41:32.148] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:32.154] 
+[2020-10-27 23:41:32.633] 
+[2020-10-27 23:41:32.633] [Sender] - send_freq = 993
+[2020-10-27 23:41:32.633] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:32.657] 
+[2020-10-27 23:41:32.657] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:32.663] 
+[2020-10-27 23:41:33.165] 
+[2020-10-27 23:41:33.165] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:33.171] 
+[2020-10-27 23:41:33.658] 
+[2020-10-27 23:41:33.658] [Sender] - send_freq = 1001
+[2020-10-27 23:41:33.658] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:33.672] 
+[2020-10-27 23:41:33.672] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:33.679] 
+[2020-10-27 23:41:33.973] 
+[2020-10-27 23:41:33.973] [Sender] - send_freq = 1826
+[2020-10-27 23:41:33.973] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:34.180] 
+[2020-10-27 23:41:34.180] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:34.187] 
+[2020-10-27 23:41:34.688] 
+[2020-10-27 23:41:34.688] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:34.694] 
+[2020-10-27 23:41:34.702] 
+[2020-10-27 23:41:34.702] [Sender] - send_freq = 1538
+[2020-10-27 23:41:34.702] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:35.196] 
+[2020-10-27 23:41:35.196] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:35.202] 
+[2020-10-27 23:41:35.397] 
+[2020-10-27 23:41:35.397] [Sender] - send_freq = 1217
+[2020-10-27 23:41:35.397] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:35.454] 
+[2020-10-27 23:41:35.454] [Sender] - send_freq = 1782
+[2020-10-27 23:41:35.454] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:35.549] 
+[2020-10-27 23:41:35.549] [Sender] - send_freq = 860
+[2020-10-27 23:41:35.549] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:35.704] 
+[2020-10-27 23:41:35.704] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:35.711] 
+[2020-10-27 23:41:36.213] 
+[2020-10-27 23:41:36.213] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:36.220] 
+[2020-10-27 23:41:36.442] 
+[2020-10-27 23:41:36.442] [Sender] - send_freq = 738
+[2020-10-27 23:41:36.442] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:36.577] 
+[2020-10-27 23:41:36.577] [Sender] - send_freq = 1381
+[2020-10-27 23:41:36.577] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:36.721] 
+[2020-10-27 23:41:36.721] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:36.728] 
+[2020-10-27 23:41:37.229] 
+[2020-10-27 23:41:37.229] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:37.236] 
+[2020-10-27 23:41:37.346] 
+[2020-10-27 23:41:37.346] [Sender] - send_freq = 1133
+[2020-10-27 23:41:37.346] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:37.738] 
+[2020-10-27 23:41:37.738] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:37.744] 
+[2020-10-27 23:41:37.861] 
+[2020-10-27 23:41:37.861] [Sender] - send_freq = 1140
+[2020-10-27 23:41:37.861] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:38.245] 
+[2020-10-27 23:41:38.245] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:38.252] 
+[2020-10-27 23:41:38.753] 
+[2020-10-27 23:41:38.753] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:38.760] 
+[2020-10-27 23:41:39.049] 
+[2020-10-27 23:41:39.049] [Sender] - send_freq = 1820
+[2020-10-27 23:41:39.049] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:39.198] 
+[2020-10-27 23:41:39.198] [Sender] - send_freq = 1461
+[2020-10-27 23:41:39.198] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:39.261] 
+[2020-10-27 23:41:39.261] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:39.269] 
+[2020-10-27 23:41:39.664] 
+[2020-10-27 23:41:39.664] [Sender] - send_freq = 1419
+[2020-10-27 23:41:39.664] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:39.768] 
+[2020-10-27 23:41:39.768] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:39.777] 
+[2020-10-27 23:41:40.270] 
+[2020-10-27 23:41:40.270] [Sender] - send_freq = 501
+[2020-10-27 23:41:40.270] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:40.276] 
+[2020-10-27 23:41:40.276] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:40.284] 
+[2020-10-27 23:41:40.422] 
+[2020-10-27 23:41:40.422] [Sender] - send_freq = 1161
+[2020-10-27 23:41:40.422] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:40.541] 
+[2020-10-27 23:41:40.541] [Sender] - send_freq = 1788
+[2020-10-27 23:41:40.541] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:40.786] 
+[2020-10-27 23:41:40.786] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:40.792] 
+[2020-10-27 23:41:41.003] 
+[2020-10-27 23:41:41.003] [Sender] - send_freq = 725
+[2020-10-27 23:41:41.003] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:41.294] 
+[2020-10-27 23:41:41.294] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:41.301] 
+[2020-10-27 23:41:41.802] 
+[2020-10-27 23:41:41.802] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:41.810] 
+[2020-10-27 23:41:42.055] 
+[2020-10-27 23:41:42.055] [Sender] - send_freq = 1270
+[2020-10-27 23:41:42.055] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:42.309] 
+[2020-10-27 23:41:42.309] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:42.317] 
+[2020-10-27 23:41:42.578] 
+[2020-10-27 23:41:42.578] [Sender] - send_freq = 1284
+[2020-10-27 23:41:42.578] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:42.818] 
+[2020-10-27 23:41:42.818] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:42.825] 
+[2020-10-27 23:41:43.326] 
+[2020-10-27 23:41:43.326] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:43.333] 
+[2020-10-27 23:41:43.405] 
+[2020-10-27 23:41:43.405] [Sender] - send_freq = 1096
+[2020-10-27 23:41:43.405] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:43.754] 
+[2020-10-27 23:41:43.754] [Sender] - send_freq = 1952
+[2020-10-27 23:41:43.754] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:43.834] 
+[2020-10-27 23:41:43.834] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:43.841] 
+[2020-10-27 23:41:44.343] 
+[2020-10-27 23:41:44.343] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:44.350] 
+[2020-10-27 23:41:44.555] 
+[2020-10-27 23:41:44.555] [Sender] - send_freq = 1229
+[2020-10-27 23:41:44.555] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:44.596] 
+[2020-10-27 23:41:44.596] [Sender] - send_freq = 1778
+[2020-10-27 23:41:44.596] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:44.851] 
+[2020-10-27 23:41:44.851] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:44.857] 
+[2020-10-27 23:41:44.892] 
+[2020-10-27 23:41:44.892] [Sender] - send_freq = 1057
+[2020-10-27 23:41:44.892] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:45.359] 
+[2020-10-27 23:41:45.359] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:45.365] 
+[2020-10-27 23:41:45.495] 
+[2020-10-27 23:41:45.495] [Sender] - send_freq = 1152
+[2020-10-27 23:41:45.495] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:45.866] 
+[2020-10-27 23:41:45.866] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:45.873] 
+[2020-10-27 23:41:46.002] 
+[2020-10-27 23:41:46.002] [Sender] - send_freq = 1152
+[2020-10-27 23:41:46.002] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:46.375] 
+[2020-10-27 23:41:46.375] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:46.382] 
+[2020-10-27 23:41:46.884] 
+[2020-10-27 23:41:46.884] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:46.890] 
+[2020-10-27 23:41:47.208] 
+[2020-10-27 23:41:47.208] [Sender] - send_freq = 1849
+[2020-10-27 23:41:47.208] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:47.391] 
+[2020-10-27 23:41:47.391] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:47.397] 
+[2020-10-27 23:41:47.631] 
+[2020-10-27 23:41:47.631] [Sender] - send_freq = 1764
+[2020-10-27 23:41:47.631] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:47.888] 
+[2020-10-27 23:41:47.888] [Sender] - send_freq = 1005
+[2020-10-27 23:41:47.888] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:47.900] 
+[2020-10-27 23:41:47.900] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:47.907] 
+[2020-10-27 23:41:48.366] 
+[2020-10-27 23:41:48.366] [Sender] - send_freq = 1990
+[2020-10-27 23:41:48.366] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:48.407] 
+[2020-10-27 23:41:48.407] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:48.415] 
+[2020-10-27 23:41:48.782] 
+[2020-10-27 23:41:48.782] [Sender] - send_freq = 1391
+[2020-10-27 23:41:48.782] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:48.918] 
+[2020-10-27 23:41:48.918] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:48.923] 
+[2020-10-27 23:41:49.123] 
+[2020-10-27 23:41:49.124] [Sender] - send_freq = 716
+[2020-10-27 23:41:49.124] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:49.215] 
+[2020-10-27 23:41:49.215] [Sender] - send_freq = 1316
+[2020-10-27 23:41:49.215] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:49.425] 
+[2020-10-27 23:41:49.425] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:49.432] 
+[2020-10-27 23:41:49.637] 
+[2020-10-27 23:41:49.637] [Sender] - send_freq = 722
+[2020-10-27 23:41:49.637] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:49.932] 
+[2020-10-27 23:41:49.932] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:49.939] 
+[2020-10-27 23:41:50.440] 
+[2020-10-27 23:41:50.440] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:50.446] 
+[2020-10-27 23:41:50.487] 
+[2020-10-27 23:41:50.487] [Sender] - send_freq = 554
+[2020-10-27 23:41:50.487] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:50.864] 
+[2020-10-27 23:41:50.864] [Sender] - send_freq = 1440
+[2020-10-27 23:41:50.864] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:50.948] 
+[2020-10-27 23:41:50.948] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:50.954] 
+[2020-10-27 23:41:51.457] 
+[2020-10-27 23:41:51.457] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:51.463] 
+[2020-10-27 23:41:51.625] 
+[2020-10-27 23:41:51.625] [Sender] - send_freq = 676
+[2020-10-27 23:41:51.625] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:51.800] 
+[2020-10-27 23:41:51.800] [Sender] - send_freq = 1360
+[2020-10-27 23:41:51.800] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:51.965] 
+[2020-10-27 23:41:51.965] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:51.972] 
+[2020-10-27 23:41:52.472] 
+[2020-10-27 23:41:52.472] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:52.479] 
+[2020-10-27 23:41:52.982] 
+[2020-10-27 23:41:52.982] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Ve
+[2020-10-27 23:41:52.983] [Sender] - send_freq = 1530
+[2020-10-27 23:41:52.986] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:52.993] ta
+[2020-10-27 23:41:53.331] 
+[2020-10-27 23:41:53.331] [Sender] - send_freq = 1368
+[2020-10-27 23:41:53.332] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:53.497] 
+[2020-10-27 23:41:53.497] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:53.504] 
+[2020-10-27 23:41:53.851] 
+[2020-10-27 23:41:53.851] [Sender] - send_freq = 1378
+[2020-10-27 23:41:53.851] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:54.005] 
+[2020-10-27 23:41:54.005] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:54.013] 
+[2020-10-27 23:41:54.017] 
+[2020-10-27 23:41:54.017] [Sender] - send_freq = 521
+[2020-10-27 23:41:54.017] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:54.513] 
+[2020-10-27 23:41:54.513] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:54.519] 
+[2020-10-27 23:41:54.760] 
+[2020-10-27 23:41:54.760] [Sender] - send_freq = 1779
+[2020-10-27 23:41:54.760] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:55.022] 
+[2020-10-27 23:41:55.022] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:55.028] 
+[2020-10-27 23:41:55.171] 
+[2020-10-27 23:41:55.171] [Sender] - send_freq = 1166
+[2020-10-27 23:41:55.171] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:55.529] 
+[2020-10-27 23:41:55.530] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.
+[2020-10-27 23:41:55.534] [Sender] - send_freq = 1022
+[2020-10-27 23:41:55.537] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:56.045] 
+[2020-10-27 23:41:56.045] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:56.052] 
+[2020-10-27 23:41:56.234] 
+[2020-10-27 23:41:56.234] [Sender] - send_freq = 1213
+[2020-10-27 23:41:56.234] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:41:56.554] 
+[2020-10-27 23:41:56.554] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:41:56.561] 
+[2020-10-27 23:41:56.731] 
+[2020-10-27 23:41:56.731] [Sender] - send_freq = 686
+[2020-10-27 23:41:56.731] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:41:57.062] 
+[2020-10-27 23:41:57.062] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:41:57.070] 
+[2020-10-27 23:41:57.070] 
+[2020-10-27 23:41:57.070] [Sender] - send_freq = 517
+[2020-10-27 23:41:57.073] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:41:57.355] 
+[2020-10-27 23:41:57.355] [Sender] - send_freq = 1826
+[2020-10-27 23:41:57.355] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:41:57.570] 
+[2020-10-27 23:41:57.570] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:41:57.577] 
+[2020-10-27 23:41:58.078] 
+[2020-10-27 23:41:58.078] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:41:58.085] 
+[2020-10-27 23:41:58.399] 
+[2020-10-27 23:41:58.399] [Sender] - send_freq = 1337
+[2020-10-27 23:41:58.399] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:41:58.586] 
+[2020-10-27 23:41:58.586] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:41:58.593] 
+[2020-10-27 23:41:58.682] 
+[2020-10-27 23:41:58.682] [Sender] - send_freq = 1112
+[2020-10-27 23:41:58.682] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:41:59.094] 
+[2020-10-27 23:41:59.094] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:41:59.100] 
+[2020-10-27 23:41:59.356] 
+[2020-10-27 23:41:59.356] [Sender] - send_freq = 1278
+[2020-10-27 23:41:59.356] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:41:59.602] 
+[2020-10-27 23:41:59.602] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:41:59.609] 
+[2020-10-27 23:41:59.891] 
+[2020-10-27 23:41:59.891] [Sender] - send_freq = 797
+[2020-10-27 23:41:59.891] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:42:00.111] 
+[2020-10-27 23:42:00.111] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:42:00.118] 
+[2020-10-27 23:42:00.322] 
+[2020-10-27 23:42:00.322] [Sender] - send_freq = 1736
+[2020-10-27 23:42:00.322] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:42:00.619] 
+[2020-10-27 23:42:00.619] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:42:00.625] 
+[2020-10-27 23:42:00.804] 
+[2020-10-27 23:42:00.804] [Sender] - send_freq = 1203
+[2020-10-27 23:42:00.804] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:42:01.081] 
+[2020-10-27 23:42:01.081] [Sender] - send_freq = 971
+[2020-10-27 23:42:01.081] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:42:01.126] 
+[2020-10-27 23:42:01.126] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:42:01.133] 
+[2020-10-27 23:42:01.635] 
+[2020-10-27 23:42:01.635] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:42:01.642] 
+[2020-10-27 23:42:01.952] 
+[2020-10-27 23:42:01.952] [Sender] - send_freq = 825
+[2020-10-27 23:42:01.952] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:42:02.030] 
+[2020-10-27 23:42:02.030] [Sender] - send_freq = 1411
+[2020-10-27 23:42:02.030] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:42:02.143] 
+[2020-10-27 23:42:02.143] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:42:02.150] 
+[2020-10-27 23:42:02.650] 
+[2020-10-27 23:42:02.650] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:42:02.658] 
+[2020-10-27 23:42:03.160] 
+[2020-10-27 23:42:03.160] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:42:03.166] 
+[2020-10-27 23:42:03.472] 
+[2020-10-27 23:42:03.472] [Sender] - send_freq = 1838
+[2020-10-27 23:42:03.472] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:42:03.668] 
+[2020-10-27 23:42:03.668] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:42:03.674] 
+[2020-10-27 23:42:03.835] 
+[2020-10-27 23:42:03.835] [Sender] - send_freq = 1693
+[2020-10-27 23:42:03.836] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:42:03.992] 
+[2020-10-27 23:42:03.992] [Sender] - send_freq = 832
+[2020-10-27 23:42:03.992] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:42:04.175] 
+[2020-10-27 23:42:04.175] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:42:04.182] 
+[2020-10-27 23:42:04.404] 
+[2020-10-27 23:42:04.404] [Sender] - send_freq = 1753
+[2020-10-27 23:42:04.404] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:42:04.684] 
+[2020-10-27 23:42:04.684] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:42:04.691] 
+[2020-10-27 23:42:05.192] 
+[2020-10-27 23:42:05.192] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:42:05.199] 
+[2020-10-27 23:42:05.314] 
+[2020-10-27 23:42:05.314] [Sender] - send_freq = 1138
+[2020-10-27 23:42:05.314] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:42:05.330] 
+[2020-10-27 23:42:05.330] [Sender] - send_freq = 1663
+[2020-10-27 23:42:05.330] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:42:05.700] 
+[2020-10-27 23:42:05.700] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:42:05.706] 
+[2020-10-27 23:42:05.990] 
+[2020-10-27 23:42:05.990] [Sender] - send_freq = 1307
+[2020-10-27 23:42:05.990] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:42:06.209] 
+[2020-10-27 23:42:06.209] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:42:06.215] 
+[2020-10-27 23:42:06.716] 
+[2020-10-27 23:42:06.716] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:42:06.724] 
+[2020-10-27 23:42:07.055] 
+[2020-10-27 23:42:07.055] [Sender] - send_freq = 1863
+[2020-10-27 23:42:07.055] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:42:07.077] 
+[2020-10-27 23:42:07.077] [Sender] - send_freq = 868
+[2020-10-27 23:42:07.077] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:42:07.224] 
+[2020-10-27 23:42:07.224] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:42:07.231] 
+[2020-10-27 23:42:07.491] 
+[2020-10-27 23:42:07.491] [Sender] - send_freq = 1792
+[2020-10-27 23:42:07.491] [Sender] - ChargePoint number 4 starts transfering data
+[2020-10-27 23:42:07.734] 
+[2020-10-27 23:42:07.734] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:42:07.738] 
+[2020-10-27 23:42:08.066] 
+[2020-10-27 23:42:08.066] [Sender] - send_freq = 1350
+[2020-10-27 23:42:08.066] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:42:08.241] 
+[2020-10-27 23:42:08.241] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.
+[2020-10-27 23:42:08.246] [Sender] - send_freq = 1022
+[2020-10-27 23:42:08.248] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:42:08.756] 
+[2020-10-27 23:42:08.756] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:42:08.764] 
+[2020-10-27 23:42:08.863] 
+[2020-10-27 23:42:08.863] [Sender] - send_freq = 622
+[2020-10-27 23:42:08.863] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:42:09.253] 
+[2020-10-27 23:42:09.253] [Sender] - send_freq = 1520
+[2020-10-27 23:42:09.253] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:42:09.265] 
+[2020-10-27 23:42:09.265] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:42:09.271] 
+[2020-10-27 23:42:09.774] 
+[2020-10-27 23:42:09.774] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:42:09.781] 
+[2020-10-27 23:42:09.863] 
+[2020-10-27 23:42:09.863] [Sender] - send_freq = 1107
+[2020-10-27 23:42:09.863] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:42:10.282] 
+[2020-10-27 23:42:10.282] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:42:10.288] 
+[2020-10-27 23:42:10.789] 
+[2020-10-27 23:42:10.789] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 7 - FW_Version: 0.0.8 - Working State: IDLE
+[2020-10-27 23:42:10.795] 
+[2020-10-27 23:42:10.848] 
+[2020-10-27 23:42:10.848] [Sender] - send_freq = 567
+[2020-10-27 23:42:10.848] [Sender] - ChargePoint number 2 starts transfering data
+[2020-10-27 23:42:10.898] 
+[2020-10-27 23:42:10.898] [Sender] - send_freq = 1124
+[2020-10-27 23:42:10.898] [Sender] - ChargePoint number 4 starts
+[2020-10-27 23:42:10.902] [Sender]  transferin- send_freqg data
+[2020-10-27 23:42:10.905]  = 1639
+[2020-10-27 23:42:10.905] [Sender] - ChargePoint number 5 starts transfering data
+[2020-10-27 23:42:11.297] 
+[2020-10-27 23:42:11.297] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 2 - FW_Version: 0.0.12 - Working State: IDLE
+[2020-10-27 23:42:11.303] 
+[2020-10-27 23:42:11.805] 
+[2020-10-27 23:42:11.805] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 1 - FW_Version: 0.0.11 - Working State: IDLE
+[2020-10-27 23:42:11.811] 
+[2020-10-27 23:42:11.865] 
+[2020-10-27 23:42:11.865] [Sender] - send_freq = 568
+[2020-10-27 23:42:11.865] [Sender] - ChargePoint number 0 starts transfering data
+[2020-10-27 23:42:12.314] 
+[2020-10-27 23:42:12.314] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 4 - FW_Version: 0.0.14 - Working State: CHARGING
+[2020-10-27 23:42:12.320] 
+[2020-10-27 23:42:12.329] 
+[2020-10-27 23:42:12.329] [Sender] - send_freq = 1540
+[2020-10-27 23:42:12.329] [Sender] - ChargePoint number 6 starts transfering data
+[2020-10-27 23:42:12.364] 
+[2020-10-27 23:42:12.364] [Sender] - send_freq = 559
+[2020-10-27 23:42:12.364] [Sender] - ChargePoint number 1 starts transfering data
+[2020-10-27 23:42:12.816] 
+[2020-10-27 23:42:12.816] [Sender] - send_freq = 503
+[2020-10-27 23:42:12.816] [Sender] - ChargePoint number 3 starts transfering data
+[2020-10-27 23:42:12.821] 
+[2020-10-27 23:42:12.821] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 6 - FW_Version: 0.0.16 - Working State: EMERGENCY
+[2020-10-27 23:42:12.831] 
+[2020-10-27 23:42:13.332] 
+[2020-10-27 23:42:13.332] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 5 - FW_Version: 0.0.15 - Working State: MAINTAINANCE
+[2020-10-27 23:42:13.339] 
+[2020-10-27 23:42:13.841] 
+[2020-10-27 23:42:13.841] [Receiver] - [GET_QUEUE_SUCCESS] ChargePoint: 3 - FW_Version: 0.0.13 - Working State: CHARGING
+[2020-10-27 23:42:13.848] 

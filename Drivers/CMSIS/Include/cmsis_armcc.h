@@ -586,7 +586,7 @@ __attribute__((always_inline)) __STATIC_INLINE uint32_t __RBIT(uint32_t value)
   \brief   STR Exclusive (8 bit)
   \details Executes a exclusive STR instruction for 8 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -601,7 +601,7 @@ __attribute__((always_inline)) __STATIC_INLINE uint32_t __RBIT(uint32_t value)
   \brief   STR Exclusive (16 bit)
   \details Executes a exclusive STR instruction for 16 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -616,7 +616,7 @@ __attribute__((always_inline)) __STATIC_INLINE uint32_t __RBIT(uint32_t value)
   \brief   STR Exclusive (32 bit)
   \details Executes a exclusive STR instruction for 32 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -701,7 +701,7 @@ __attribute__((section(".rrx_text"))) __STATIC_INLINE __ASM uint32_t __RRX(uint3
   \brief   STRT Unprivileged (8 bit)
   \details Executes a Unprivileged STRT instruction for 8 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 #define __STRBT(value, ptr)               __strt(value, ptr)
 
@@ -710,7 +710,7 @@ __attribute__((section(".rrx_text"))) __STATIC_INLINE __ASM uint32_t __RRX(uint3
   \brief   STRT Unprivileged (16 bit)
   \details Executes a Unprivileged STRT instruction for 16 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 #define __STRHT(value, ptr)               __strt(value, ptr)
 
@@ -719,7 +719,7 @@ __attribute__((section(".rrx_text"))) __STATIC_INLINE __ASM uint32_t __RRX(uint3
   \brief   STRT Unprivileged (32 bit)
   \details Executes a Unprivileged STRT instruction for 32 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 #define __STRT(value, ptr)                __strt(value, ptr)
 

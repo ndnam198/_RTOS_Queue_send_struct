@@ -1078,7 +1078,7 @@ __STATIC_FORCEINLINE uint32_t __LDREXW(volatile uint32_t *addr)
   \brief   STR Exclusive (8 bit)
   \details Executes a exclusive STR instruction for 8 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -1095,7 +1095,7 @@ __STATIC_FORCEINLINE uint32_t __STREXB(uint8_t value, volatile uint8_t *addr)
   \brief   STR Exclusive (16 bit)
   \details Executes a exclusive STR instruction for 16 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -1112,7 +1112,7 @@ __STATIC_FORCEINLINE uint32_t __STREXH(uint16_t value, volatile uint16_t *addr)
   \brief   STR Exclusive (32 bit)
   \details Executes a exclusive STR instruction for 32 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -1254,7 +1254,7 @@ __STATIC_FORCEINLINE uint32_t __LDRT(volatile uint32_t *ptr)
   \brief   STRT Unprivileged (8 bit)
   \details Executes a Unprivileged STRT instruction for 8 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 __STATIC_FORCEINLINE void __STRBT(uint8_t value, volatile uint8_t *ptr)
 {
@@ -1266,7 +1266,7 @@ __STATIC_FORCEINLINE void __STRBT(uint8_t value, volatile uint8_t *ptr)
   \brief   STRT Unprivileged (16 bit)
   \details Executes a Unprivileged STRT instruction for 16 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 __STATIC_FORCEINLINE void __STRHT(uint16_t value, volatile uint16_t *ptr)
 {
@@ -1278,7 +1278,7 @@ __STATIC_FORCEINLINE void __STRHT(uint16_t value, volatile uint16_t *ptr)
   \brief   STRT Unprivileged (32 bit)
   \details Executes a Unprivileged STRT instruction for 32 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 __STATIC_FORCEINLINE void __STRT(uint32_t value, volatile uint32_t *ptr)
 {
@@ -1394,7 +1394,7 @@ __STATIC_FORCEINLINE uint32_t __LDA(volatile uint32_t *ptr)
   \brief   Store-Release (8 bit)
   \details Executes a STLB instruction for 8 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 __STATIC_FORCEINLINE void __STLB(uint8_t value, volatile uint8_t *ptr)
 {
@@ -1406,7 +1406,7 @@ __STATIC_FORCEINLINE void __STLB(uint8_t value, volatile uint8_t *ptr)
   \brief   Store-Release (16 bit)
   \details Executes a STLH instruction for 16 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 __STATIC_FORCEINLINE void __STLH(uint16_t value, volatile uint16_t *ptr)
 {
@@ -1418,7 +1418,7 @@ __STATIC_FORCEINLINE void __STLH(uint16_t value, volatile uint16_t *ptr)
   \brief   Store-Release (32 bit)
   \details Executes a STL instruction for 32 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
  */
 __STATIC_FORCEINLINE void __STL(uint32_t value, volatile uint32_t *ptr)
 {
@@ -1475,7 +1475,7 @@ __STATIC_FORCEINLINE uint32_t __LDAEX(volatile uint32_t *ptr)
   \brief   Store-Release Exclusive (8 bit)
   \details Executes a STLB exclusive instruction for 8 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -1492,7 +1492,7 @@ __STATIC_FORCEINLINE uint32_t __STLEXB(uint8_t value, volatile uint8_t *ptr)
   \brief   Store-Release Exclusive (16 bit)
   \details Executes a STLH exclusive instruction for 16 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */
@@ -1509,7 +1509,7 @@ __STATIC_FORCEINLINE uint32_t __STLEXH(uint16_t value, volatile uint16_t *ptr)
   \brief   Store-Release Exclusive (32 bit)
   \details Executes a STL exclusive instruction for 32 bit values.
   \param [in]  value  Value to store
-  \param [in]    ptr  Pointer to location
+  \param [in]    ptr  Pointer to pc_sw_version
   \return          0  Function succeeded
   \return          1  Function failed
  */

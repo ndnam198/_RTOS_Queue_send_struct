@@ -6,7 +6,7 @@
  *                      64Kbytes FLASH
  *                      20Kbytes RAM
  *
- *            Set heap size, stack size and stack location according
+ *            Set heap size, stack size and stack pc_sw_version according
  *            to application requirements.
  *
  *            Set memory bank area and size if external memory is used

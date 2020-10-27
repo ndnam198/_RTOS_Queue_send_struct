@@ -1685,7 +1685,7 @@ void vTaskGetRunTimeStats( char *pcWriteBuffer ) PRIVILEGED_FUNCTION; /*lint !e9
 
 /**
  * task. h
- * <PRE>BaseType_t xTaskNotify( TaskHandle_t xTaskToNotify, uint32_t ulValue, eNotifyAction eAction );</PRE>
+ * <PRE>BaseType_t xTaskNotify( TaskHandle_t xTaskToNotify, uint32_t u8_value, eNotifyAction eAction );</PRE>
  *
  * configUSE_TASK_NOTIFICATIONS must be undefined or defined as 1 for this
  * function to be available.
@@ -1721,35 +1721,35 @@ void vTaskGetRunTimeStats( char *pcWriteBuffer ) PRIVILEGED_FUNCTION; /*lint !e9
  * task, and the handle of the currently running task can be obtained by calling
  * xTaskGetCurrentTaskHandle().
  *
- * @param ulValue Data that can be sent with the notification.  How the data is
+ * @param u8_value Data that can be sent with the notification.  How the data is
  * used depends on the value of the eAction parameter.
  *
  * @param eAction Specifies how the notification updates the task's notification
  * value, if at all.  Valid values for eAction are as follows:
  *
  * eSetBits -
- * The task's notification value is bitwise ORed with ulValue.  xTaskNofify()
+ * The task's notification value is bitwise ORed with u8_value.  xTaskNofify()
  * always returns pdPASS in this case.
  *
  * eIncrement -
- * The task's notification value is incremented.  ulValue is not used and
+ * The task's notification value is incremented.  u8_value is not used and
  * xTaskNotify() always returns pdPASS in this case.
  *
  * eSetValueWithOverwrite -
- * The task's notification value is set to the value of ulValue, even if the
+ * The task's notification value is set to the value of u8_value, even if the
  * task being notified had not yet processed the previous notification (the
  * task already had a notification pending).  xTaskNotify() always returns
  * pdPASS in this case.
  *
  * eSetValueWithoutOverwrite -
  * If the task being notified did not already have a notification pending then
- * the task's notification value is set to ulValue and xTaskNotify() will
+ * the task's notification value is set to u8_value and xTaskNotify() will
  * return pdPASS.  If the task being notified already had a notification
  * pending then no action is performed and pdFAIL is returned.
  *
  * eNoAction -
  * The task receives a notification without its notification value being
- * updated.  ulValue is not used and xTaskNotify() always returns pdPASS in
+ * updated.  u8_value is not used and xTaskNotify() always returns pdPASS in
  * this case.
  *
  *  pulPreviousNotificationValue -
@@ -1762,13 +1762,13 @@ void vTaskGetRunTimeStats( char *pcWriteBuffer ) PRIVILEGED_FUNCTION; /*lint !e9
  * \defgroup xTaskNotify xTaskNotify
  * \ingroup TaskNotifications
  */
-BaseType_t xTaskGenericNotify( TaskHandle_t xTaskToNotify, uint32_t ulValue, eNotifyAction eAction, uint32_t *pulPreviousNotificationValue ) PRIVILEGED_FUNCTION;
-#define xTaskNotify( xTaskToNotify, ulValue, eAction ) xTaskGenericNotify( ( xTaskToNotify ), ( ulValue ), ( eAction ), NULL )
-#define xTaskNotifyAndQuery( xTaskToNotify, ulValue, eAction, pulPreviousNotifyValue ) xTaskGenericNotify( ( xTaskToNotify ), ( ulValue ), ( eAction ), ( pulPreviousNotifyValue ) )
+BaseType_t xTaskGenericNotify( TaskHandle_t xTaskToNotify, uint32_t u8_value, eNotifyAction eAction, uint32_t *pulPreviousNotificationValue ) PRIVILEGED_FUNCTION;
+#define xTaskNotify( xTaskToNotify, u8_value, eAction ) xTaskGenericNotify( ( xTaskToNotify ), ( u8_value ), ( eAction ), NULL )
+#define xTaskNotifyAndQuery( xTaskToNotify, u8_value, eAction, pulPreviousNotifyValue ) xTaskGenericNotify( ( xTaskToNotify ), ( u8_value ), ( eAction ), ( pulPreviousNotifyValue ) )
 
 /**
  * task. h
- * <PRE>BaseType_t xTaskNotifyFromISR( TaskHandle_t xTaskToNotify, uint32_t ulValue, eNotifyAction eAction, BaseType_t *pxHigherPriorityTaskWoken );</PRE>
+ * <PRE>BaseType_t xTaskNotifyFromISR( TaskHandle_t xTaskToNotify, uint32_t u8_value, eNotifyAction eAction, BaseType_t *pxHigherPriorityTaskWoken );</PRE>
  *
  * configUSE_TASK_NOTIFICATIONS must be undefined or defined as 1 for this
  * function to be available.
@@ -1807,35 +1807,35 @@ BaseType_t xTaskGenericNotify( TaskHandle_t xTaskToNotify, uint32_t ulValue, eNo
  * task, and the handle of the currently running task can be obtained by calling
  * xTaskGetCurrentTaskHandle().
  *
- * @param ulValue Data that can be sent with the notification.  How the data is
+ * @param u8_value Data that can be sent with the notification.  How the data is
  * used depends on the value of the eAction parameter.
  *
  * @param eAction Specifies how the notification updates the task's notification
  * value, if at all.  Valid values for eAction are as follows:
  *
  * eSetBits -
- * The task's notification value is bitwise ORed with ulValue.  xTaskNofify()
+ * The task's notification value is bitwise ORed with u8_value.  xTaskNofify()
  * always returns pdPASS in this case.
  *
  * eIncrement -
- * The task's notification value is incremented.  ulValue is not used and
+ * The task's notification value is incremented.  u8_value is not used and
  * xTaskNotify() always returns pdPASS in this case.
  *
  * eSetValueWithOverwrite -
- * The task's notification value is set to the value of ulValue, even if the
+ * The task's notification value is set to the value of u8_value, even if the
  * task being notified had not yet processed the previous notification (the
  * task already had a notification pending).  xTaskNotify() always returns
  * pdPASS in this case.
  *
  * eSetValueWithoutOverwrite -
  * If the task being notified did not already have a notification pending then
- * the task's notification value is set to ulValue and xTaskNotify() will
+ * the task's notification value is set to u8_value and xTaskNotify() will
  * return pdPASS.  If the task being notified already had a notification
  * pending then no action is performed and pdFAIL is returned.
  *
  * eNoAction -
  * The task receives a notification without its notification value being
- * updated.  ulValue is not used and xTaskNotify() always returns pdPASS in
+ * updated.  u8_value is not used and xTaskNotify() always returns pdPASS in
  * this case.
  *
  * @param pxHigherPriorityTaskWoken  xTaskNotifyFromISR() will set
@@ -1853,9 +1853,9 @@ BaseType_t xTaskGenericNotify( TaskHandle_t xTaskToNotify, uint32_t ulValue, eNo
  * \defgroup xTaskNotify xTaskNotify
  * \ingroup TaskNotifications
  */
-BaseType_t xTaskGenericNotifyFromISR( TaskHandle_t xTaskToNotify, uint32_t ulValue, eNotifyAction eAction, uint32_t *pulPreviousNotificationValue, BaseType_t *pxHigherPriorityTaskWoken ) PRIVILEGED_FUNCTION;
-#define xTaskNotifyFromISR( xTaskToNotify, ulValue, eAction, pxHigherPriorityTaskWoken ) xTaskGenericNotifyFromISR( ( xTaskToNotify ), ( ulValue ), ( eAction ), NULL, ( pxHigherPriorityTaskWoken ) )
-#define xTaskNotifyAndQueryFromISR( xTaskToNotify, ulValue, eAction, pulPreviousNotificationValue, pxHigherPriorityTaskWoken ) xTaskGenericNotifyFromISR( ( xTaskToNotify ), ( ulValue ), ( eAction ), ( pulPreviousNotificationValue ), ( pxHigherPriorityTaskWoken ) )
+BaseType_t xTaskGenericNotifyFromISR( TaskHandle_t xTaskToNotify, uint32_t u8_value, eNotifyAction eAction, uint32_t *pulPreviousNotificationValue, BaseType_t *pxHigherPriorityTaskWoken ) PRIVILEGED_FUNCTION;
+#define xTaskNotifyFromISR( xTaskToNotify, u8_value, eAction, pxHigherPriorityTaskWoken ) xTaskGenericNotifyFromISR( ( xTaskToNotify ), ( u8_value ), ( eAction ), NULL, ( pxHigherPriorityTaskWoken ) )
+#define xTaskNotifyAndQueryFromISR( xTaskToNotify, u8_value, eAction, pulPreviousNotificationValue, pxHigherPriorityTaskWoken ) xTaskGenericNotifyFromISR( ( xTaskToNotify ), ( u8_value ), ( eAction ), ( pulPreviousNotificationValue ), ( pxHigherPriorityTaskWoken ) )
 
 /**
  * task. h

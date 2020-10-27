@@ -1,0 +1,27 @@
+typedef enum
+{
+  eChargePoint_1 = 0x00,
+  eChargePoint_2,
+  eChargePoint_3,
+  eChargePoint_4,
+  eChargePoint_5,
+  eChargePoint_6,
+  eGateway
+} eDataSource_t;
+
+typedef enum
+{
+  eState_Idle = 0x00,
+  eState_Charging,
+  eState_Maintainance,
+  eState_Emergency
+} eWorkingState_t;
+
+t_data_received{
+    eDataSource_t e_data_source;
+    DeviceProperties_t *t_device_property{
+        char pc_sw_version[10];
+        eWorkingState_t u8_working_state;
+    }
+}
+

@@ -395,7 +395,7 @@ void xPortPendSVHandler( void )
 	"	mrs r0, psp							\n"
 	"	isb									\n"
 	"										\n"
-	"	ldr	r3, pxCurrentTCBConst			\n" /* Get the location of the current TCB. */
+	"	ldr	r3, pxCurrentTCBConst			\n" /* Get the pc_sw_version of the current TCB. */
 	"	ldr	r2, [r3]						\n"
 	"										\n"
 	"	stmdb r0!, {r4-r11}					\n" /* Save the remaining registers. */
