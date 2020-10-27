@@ -3,18 +3,33 @@
 		"path": "$ROOTPATH$\\Core\\Src\\main.c",
 		"bookmarks": [
 			{
-				"line": 170,
-				"column": 35,
+				"line": 40,
+				"column": 30,
 				"label": ""
 			},
 			{
-				"line": 187,
-				"column": 25,
+				"line": 50,
+				"column": 14,
 				"label": ""
 			},
 			{
-				"line": 204,
-				"column": 33,
+				"line": 115,
+				"column": 24,
+				"label": ""
+			},
+			{
+				"line": 256,
+				"column": 21,
+				"label": ""
+			},
+			{
+				"line": 370,
+				"column": 21,
+				"label": ""
+			},
+			{
+				"line": 403,
+				"column": 18,
 				"label": ""
 			}
 		]

@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "atomic": "cpp",
+        "cstring": "cpp",
+        "memory": "cpp",
+        "xmemory": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
